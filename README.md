@@ -1,14 +1,15 @@
-# README
+# Welkom
 
-This is the Signalen documentation repository. The documentation is built using GitBook and synced towards this repository automatically. The main branch is only used for documentation about how the documentation system works and how you can contribute.
+Welkom bij de online documentatie van Signalen!\
+Op deze Gitbook pagina vind je de gebruikers- en beheerdershandleidingen.
 
-There are two branches:
+Wil je meehelpen met het actueel houden van de handleidingen? Laat het Amy weten, dan voegt ze je toe!
 
-* nl-0.1 - Contains the Dutch version 0.1 of the documentation
-* en-0.1 -Contains the English version of the documenation
-* main - This README and other meta documentation about the documentation system itself
+_De handleidingen van Signalen worden door samenwerkende gemeenten opgesteld. Hierdoor kunnen er verschillende logo's, kleuren en categorieën in voorbeelden worden gebruikt._
 
-To add or contribute to the documentation create a seperate branch on 'nl' or 'en' branch and merge it back into the nl-0.x or en-0.x. This branching strategy does not follow normal conventions and will be changed on a later date
+De Signalen documentatie bestaat uit de volgende onderdelen:
 
-The documentation is hosted by Gitbook on [https://docs.signalen.org](https://docs.signalen.org)
+
+
+<table data-header-hidden><thead><tr><th width="277">Handleiding</th><th>Beschrijft</th></tr></thead><tbody><tr><td><strong>Handleiding</strong></td><td><strong>Omschrijving</strong></td></tr><tr><td><a href="signalen-overzicht/untitled.md">Introductie</a></td><td>Een korte introductie van Signalen, de geschiedenis, basis concepten en overzicht van de verschillende componenten waaruit Signalen is opgebouwd</td></tr><tr><td><a href="inleiding.md">Gebruikers handleiding</a></td><td>Een algemene handleiding voor het dagelijkse gebruik van Signalen voor medewerkers. Signalen is per organisatie verschillende geconfigureerd en kan afwijken op sommige punten in deze handleiding.</td></tr><tr><td><a href="menu-structuur.md">Beheer (frontend)</a></td><td>Een handleiding voor (functioneel) beheerders die zij voor de inrichting en dagelijkse werkzaamheden kunnen gebruiken</td></tr><tr><td><a href="menu-structuur-1.md">Beheer (Django)</a></td><td>Een handleiding voor (functioneel/technisch) beheerders die zij voor de inrichting en dagelijkse werkzaamheden kunnen gebruiken</td></tr><tr><td><a href="aanvullende-informatie/anonimiseren-en-vernietigen-van-meldingen.md">Aanvullende informatie</a></td><td>Extra informatie over specifieke onderwerpen binnen Signalen</td></tr></tbody></table>
 
