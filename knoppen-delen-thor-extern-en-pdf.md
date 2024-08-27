@@ -122,7 +122,7 @@ Je krijgt een e-mail preview (voorbeeld) te zien van de volledige e-mail die ver
 
 ![](<.gitbook/assets/image (161).png>)\
 \
-Let op! De link is 14 dagen geldig (instelbaar). Na de ingestelde termijn is de link niet meer geldig en kan de externe partij niet meer bij de meldingsinformatie, of de actie voorzien van een reactie.
+Let op! De link is 14 dagen geldig. Na de ingestelde termijn is de link niet meer geldig en kan de externe partij niet meer bij de meldingsinformatie, of de actie voorzien van een reactie.
 
 De status van de melding wijzigt naar "Doorgezet naar extern"\
 ![](<.gitbook/assets/image (160).png>)
