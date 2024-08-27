@@ -1,3 +1,7 @@
+---
+icon: display
+---
+
 # Schermen (pagina's) in Signalen
 
 Afhankelijk van de rollen en rechten die aan jouw account zijn gekoppeld, zijn er “tabbladen” wel of niet zichtbaar. Sommige rechten zijn bijvoorbeeld voor functioneel beheer voor de inrichting van het systeem. Andere tabbladen kunnen beschikbaar zijn voor key-users.

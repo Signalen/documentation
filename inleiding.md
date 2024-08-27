@@ -1,3 +1,7 @@
+---
+icon: book-open
+---
+
 # Inleiding
 
 ## **Over deze handleiding**

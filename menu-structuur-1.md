@@ -1,3 +1,7 @@
+---
+icon: bars
+---
+
 # Menu structuur
 
 De tekst \<Django-beheer>, altijd linksboven in beeld is tevens een snelkoppeling voor navigatie naar de voor/(hoofd) pagina.

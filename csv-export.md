@@ -1,3 +1,7 @@
+---
+icon: arrow-down-to-line
+---
+
 # CSV export
 
 1\)      Ga via de menuopties _Instellingen > CSV export_ om alle meldingen in CSV formaat te downloaden. Deze optie is alleen te zien met de juiste rechten.

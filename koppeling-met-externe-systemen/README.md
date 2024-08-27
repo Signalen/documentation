@@ -1,3 +1,7 @@
+---
+icon: link
+---
+
 # Koppeling met externe systemen
 
 ## Signalen REST API

@@ -1,3 +1,7 @@
+---
+icon: brain-circuit
+---
+
 # Machine learning
 
 ## Architectuur van het model&#x20;

@@ -1,3 +1,7 @@
+---
+icon: list
+---
+
 # Hoofdcategorieën
 
 1\)      Ga via de menuopties _Instellingen > Hoofdcategorieën_ naar de overzichtslijst van alle gedefinieerde hoofdcategorieën.

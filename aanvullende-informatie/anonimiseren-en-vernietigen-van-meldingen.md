@@ -1,3 +1,7 @@
+---
+icon: trash-clock
+---
+
 # Anonimiseren en vernietigen van meldingen
 
 ## Anonimiseren

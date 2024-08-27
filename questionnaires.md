@@ -1,3 +1,7 @@
+---
+icon: file-circle-question
+---
+
 # Questionnaires
 
 Niet te verwarren met het klanttevredenheidsonderzoek.

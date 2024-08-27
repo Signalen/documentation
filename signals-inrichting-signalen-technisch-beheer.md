@@ -1,3 +1,7 @@
+---
+icon: gear
+---
+
 # Signals (inrichting Signalen (technisch) beheer)
 
 ## Categories

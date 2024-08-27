@@ -1,3 +1,7 @@
+---
+icon: arrow-up-right-from-square
+---
+
 # Knoppen Delen, THOR, Extern en PDF
 
 <div align="left">

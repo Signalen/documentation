@@ -1,3 +1,7 @@
+---
+icon: bars
+---
+
 # Menu structuur
 
 De het menu van het Signalen-beheerpaneel heeft de volgende opties:

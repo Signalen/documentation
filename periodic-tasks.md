@@ -1,3 +1,7 @@
+---
+icon: diagram-subtask
+---
+
 # Periodic tasks
 
 Clocked, intervals en solar events worden niet tot zelden gebruikt. In de praktijk worden vooral Crontab-schema’s gebruikt voor het inplannen van taken. Crontab-schema's helpen bij het beslissen wanneer een taak wordt uitgevoerd, bijvoorbeeld een bepaald tijdstip of een dag van de week, of zelfs een maand van het jaar. Het advies is om een crontab toe te voegen in timezone “Europe/Amsterdam” zodat je niet hoeft om te rekenen met UTC tijd:

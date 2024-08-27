@@ -1,3 +1,7 @@
+---
+icon: envelope-open
+---
+
 # E-mail templates
 
 In Django kun je via _E-mail integrations > E-mail_ templates de verschillende e-mail opmaken aanpassen. De code die hiervoor gebruikt wordt is markdown language (Zie [https://commonmark.org/help/](https://commonmark.org/help/) voor een korte tutorial en opmaak).

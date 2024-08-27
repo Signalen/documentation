@@ -1,3 +1,7 @@
+---
+icon: user-gear
+---
+
 # Gebruikersbeheer
 
 ## **Gebruikers toevoegen**&#x20;

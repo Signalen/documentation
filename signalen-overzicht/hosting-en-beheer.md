@@ -1,3 +1,7 @@
+---
+icon: head-side-headphones
+---
+
 # Hosting en beheer
 
 <figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>

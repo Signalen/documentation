@@ -1,3 +1,7 @@
+---
+icon: sitemap
+---
+
 # Technische architectuur
 
 ![Overzicht van technische architectuur](https://docs.delta10.nl/assets/signalen/technische-architectuur/overzicht.png)

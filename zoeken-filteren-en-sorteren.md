@@ -1,3 +1,7 @@
+---
+icon: folder-magnifying-glass
+---
+
 # Zoeken, filteren en sorteren
 
 ## Snelfilter

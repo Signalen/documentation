@@ -1,5 +1,6 @@
 ---
 description: van dienstverlenging op Signalen
+icon: bag-shopping-plus
 ---
 
 # Inkoop & Aanbesteding

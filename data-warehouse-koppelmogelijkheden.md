@@ -1,3 +1,7 @@
+---
+icon: database
+---
+
 # Data warehouse - koppelmogelijkheden
 
 ## CSV export <a href="#toc154666882" id="toc154666882"></a>

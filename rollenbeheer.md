@@ -1,3 +1,7 @@
+---
+icon: user-plus
+---
+
 # Rollenbeheer
 
 1\)      Ga via de menuopties _Instellingen > Rollen_ naar de overzichtslijst met de gedefinieerde rollen.

@@ -2,6 +2,7 @@
 description: >-
   Het is een samenwerking van, voor en door gemeenten voor het verbeteren van de
   publieksdienstverlening op meldingen openbare ruimte.
+icon: file-circle-info
 ---
 
 # Introductie

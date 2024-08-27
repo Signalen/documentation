@@ -1,3 +1,7 @@
+---
+icon: face-smile
+---
+
 # Klanttevredenheidsonderzoek
 
 Voorwaarden:\

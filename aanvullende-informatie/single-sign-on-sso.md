@@ -3,6 +3,7 @@ description: >-
   Gebruikers kunnen inloggen op de Signalen backoffice via Single Sign On (SSO).
   Signalen implementeert hiervoor het OpenID Connect protocol en heeft daarom
   een vertrouwensrelatie met de Identity Provid
+icon: arrow-right-to-bracket
 ---
 
 # Single Sign On (SSO)

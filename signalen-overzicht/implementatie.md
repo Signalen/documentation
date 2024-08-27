@@ -1,5 +1,6 @@
 ---
 description: Signalen implementatie stappen voor gemeenten
+icon: sign-posts-wrench
 ---
 
 # Implementatiestappen

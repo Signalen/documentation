@@ -1,3 +1,7 @@
+---
+icon: user-plus
+---
+
 # Afdelingenbeheer
 
 1\)      Ga via de menuopties _Instellingen > Afdelingen_ naar de overzichtslijst van alle afdelingen en de subcategorie(ën) die aan een afdeling is toegewezen.

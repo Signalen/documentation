@@ -1,3 +1,7 @@
+---
+icon: list
+---
+
 # Subcategorieën
 
 1\)      Ga via de menuopties _Instellingen > Subcategorieën_ naar de overzichtslijst van alle gedefinieerde subcategorieën.

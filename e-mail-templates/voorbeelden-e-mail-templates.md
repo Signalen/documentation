@@ -1,3 +1,7 @@
+---
+icon: envelope-open
+---
+
 # Voorbeelden e-mail templates
 
 ### Send mail signal created

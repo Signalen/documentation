@@ -1,3 +1,7 @@
+---
+icon: memo-circle-check
+---
+
 # Een melding behandelen
 
 Een nieuwe melding komt altijd binnen op de status Gemeld:\

@@ -1,3 +1,7 @@
+---
+icon: file-circle-plus
+---
+
 # Een melding maken
 
 ## Een melding maken (extern)

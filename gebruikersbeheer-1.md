@@ -1,3 +1,7 @@
+---
+icon: user-gear
+---
+
 # Gebruikersbeheer
 
 Het advies is om gebruikers via Signalen aan te maken en daar ook de rollen toe te kennen aan deze gebruikers – om die reden zal het beheer hiervan niet worden omschreven in dit gedeelte van de handleiding, het is echter wel mogelijk.

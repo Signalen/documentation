@@ -1,3 +1,7 @@
+---
+icon: store
+---
+
 # Marktpartijen
 
 <figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>

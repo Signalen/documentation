@@ -1,3 +1,7 @@
+---
+icon: address-card
+---
+
 # Wijzigen contactgegevens
 
 **Voorwaarden**:\

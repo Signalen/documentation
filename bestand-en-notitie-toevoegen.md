@@ -1,3 +1,7 @@
+---
+icon: paperclip-vertical
+---
+
 # Bestand en notitie toevoegen
 
 ## Bestand toevoegen

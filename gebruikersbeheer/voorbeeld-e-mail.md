@@ -1,3 +1,7 @@
+---
+icon: envelope-open
+---
+
 # Voorbeeld e-mail
 
 ## **Standaard e-mail PRODUCTIEOMGEVING**

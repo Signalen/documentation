@@ -1,3 +1,7 @@
+---
+icon: face-smile
+---
+
 # Inrichting klanttevredenheidsonderzoek (KTO)
 
 ## Standaard antwoorden

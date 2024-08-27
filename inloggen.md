@@ -1,3 +1,7 @@
+---
+icon: arrow-right-to-bracket
+---
+
 # Inloggen
 
 Inloggen op Signalen kan via het webadres zoals die is bepaald door je eigen organisatie. Meestal is dat meldingen.\[gemeentenaam].nl/login. Het inloggen in de backoffice/Django werkt hetzelfde; die URL is meestal api.meldingen.\[gemeentenaam].nl/signals/admin.\

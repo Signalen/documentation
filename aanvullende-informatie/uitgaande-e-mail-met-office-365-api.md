@@ -1,3 +1,7 @@
+---
+icon: envelope-open
+---
+
 # Uitgaande e-mail met Office 365 API
 
 Signalen verstuurt transactionele mail naar melders en behandelaren om ze te informeren over de status van een melding. Hiervoor koppelen we met de e-mailservers van de gemeente. In deze handleiding staat uitgelegd hoe de Signalen geautoriseerd kan worden om mail te versturen via Office 365 API op basis van de permissie "Mail.Send" op de Entra ID Applicatie.

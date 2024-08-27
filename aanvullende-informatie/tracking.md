@@ -1,3 +1,7 @@
+---
+icon: magnifying-glass-location
+---
+
 # Tracking
 
 Signalen maakt geen gebruik van tracking cookies. Ook worden IP-adressen niet in Signalen opgeslagen. Anoniem melden is dus écht anoniem.

@@ -1,3 +1,7 @@
+---
+icon: diagram-subtask
+---
+
 # Celery results
 
 Celery is een open source asynchrone takenwachtrij die is gebaseerd op het gedistribueerd doorgeven van berichten. Hoewel de wachtrij ingeplande taken ondersteunt, ligt de focus op bewerkingen in “realtime”.

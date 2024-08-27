@@ -1,3 +1,7 @@
+---
+icon: file-word
+---
+
 # Standaard teksten
 
 ## **Standaard teksten per subcategorie TOEVOEGEN**

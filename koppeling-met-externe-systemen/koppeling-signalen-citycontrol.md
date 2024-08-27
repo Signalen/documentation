@@ -1,3 +1,7 @@
+---
+icon: user-police
+---
+
 # Koppeling Signalen - CityControl
 
 Om de koppeling te kunnen gebruiken dient de gebruiker in Signalen het recht “Doorsturen van een melding (THOR)” te hebben.
