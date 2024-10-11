@@ -196,4 +196,9 @@ In bovenstaand voorbeeld wordt het meldingsnummer, hoofd- en subcategorie opgeha
 
 ## Klantinfocus
 
-Gemeente Hilversum maakt gebruik van deze externe KTO tool. Werkt hetzelfde als KCM, zie hierboven. Klantinfocus levert een URL aan die in de e-mail template "Send mail signal handled" gezet kan worden.
+Gemeente Hilversum maakt gebruik van deze externe KTO tool. Werkt hetzelfde als KCM, zie hierboven. Klantinfocus levert vijf smileys met vijf verschillende URLs aan die in de e-mail template "Send mail signal handled" gezet kan worden:
+
+```
+**Hoe tevreden bent u over de afhandeling van uw melding?**  
+Laat het ons weten via de volgende link: [![Zeer ontevreden](https://websurveys2.govmetric.com/imgs/smileys/svg/standard/smiley-dark-red.svg)](https://link-naar-de-tool.nlQ_HC={{main_category_public_name}}&Q_SC={{sub_category_public_name}}&Q_createdate={{created_at}}&Q_source={{source}})[![Ontevreden](https://websurveys2.govmetric.com/imgs/smileys/svg/standard/smiley-light-red.svg)](https://link-naar-de-tool.nlQ_HC={{main_category_public_name}}&Q_SC={{sub_category_public_name}}&Q_createdate={{created_at}}&Q_source={{source}})[![Neutraal](https://websurveys2.govmetric.com/imgs/smileys/svg/standard/smiley-orange.svg)](https://link-naar-de-tool.nlQ_HC={{main_category_public_name}}&Q_SC={{sub_category_public_name}}&Q_createdate={{created_at}}&Q_source={{source}})[![Tevreden](https://websurveys2.govmetric.com/imgs/smileys/svg/standard/smiley-light-green.svg)](https://link-naar-de-tool.nlQ_HC={{main_category_public_name}}&Q_SC={{sub_category_public_name}}&Q_createdate={{created_at}}&Q_source={{source}})[![Zeer tevreden](https://websurveys2.govmetric.com/imgs/smileys/svg/standard/smiley-dark-green.svg)](https://link-naar-de-tool.nlQ_HC={{main_category_public_name}}&Q_SC={{sub_category_public_name}}&Q_createdate={{created_at}}&Q_source={{source}})  
+```
