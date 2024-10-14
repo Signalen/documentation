@@ -2,13 +2,13 @@
 
 * [Welkom](README.md)
 
-## Signalen Overzicht
+## Signalen Samenwerking <a href="#signalen-overzicht" id="signalen-overzicht"></a>
 
 * [Introductie](signalen-overzicht/untitled.md)
 * [Implementatiestappen](signalen-overzicht/implementatie.md)
 * [Community](signalen-overzicht/community.md)
 * [Hosting en beheer](signalen-overzicht/hosting-en-beheer.md)
-* [Inkoop & Aanbesteding](signalen-overzicht/inkoop-and-aanbesteding.md)
+* [Inkoop & Aanbesteding dienstverlening](signalen-overzicht/inkoop-and-aanbesteding-dienstverlening.md)
 * [Kostenindicaties](signalen-overzicht/kostenindicaties.md)
 * [Marktpartijen](signalen-overzicht/marktpartijen.md)
 
