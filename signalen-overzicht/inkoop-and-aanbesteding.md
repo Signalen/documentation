@@ -1,6 +1,6 @@
 ---
-description: van dienstverlenging op Signalen
 icon: bag-shopping-plus
+description: van dienstverlenging op Signalen
 ---
 
 # Inkoop & Aanbesteding
@@ -9,4 +9,12 @@ Gemeenten organiseren individueel hun inkoop & aanbesteding op de dienstverlenin
 
 De community heeft voor het inkopen van Hosting & Beheer diensten een standaard modelovereenkomst op basis van de GIBIT beschikbaar voor gemeenten.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Tevens is er een 'specificatie van werk' beschikbaar waarin de functionele specificaties van Signalen as a Service staan beschreven.&#x20;
+
+**Download scenario**
+
+Bij het ‘download scenario’ hoef je geen aanbesteding te doen om open source programmatuur, zoals Signalen te downloaden, testen en te gebruiken. Je bent als gemeenten vrij om bij iedere dienstverlener ondersteuning in te kopen, uiteraard gelden daar wel  de aanbestedingsregels. Je mag bij deze uitvraag wel specifiek vragen om leveranciers met ervaring van het gedownloade open source product.
+
+[https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2022/05/18/publieke-waarden-en-rechten-bij-aanbesteden-van-ict---handreiking-aanbesteden-van-open-source-software-ii/epub+publieke-waarden-en-rechten-bij-aanbesteden-van-ict.epub](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2022/05/18/publieke-waarden-en-rechten-bij-aanbesteden-van-ict---handreiking-aanbesteden-van-open-source-software-ii/epub+publieke-waarden-en-rechten-bij-aanbesteden-van-ict.epub)
+
+<figure><img src="../.gitbook/assets/Schermafbeelding 2024-10-14 om 09.01.53.png" alt=""><figcaption></figcaption></figure>

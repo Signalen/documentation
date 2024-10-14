@@ -9,7 +9,7 @@
 * [Community](signalen-overzicht/community.md)
 * [Hosting en beheer](signalen-overzicht/hosting-en-beheer.md)
 * [Inkoop & Aanbesteding](signalen-overzicht/inkoop-and-aanbesteding.md)
-* [Kostenindicatie](signalen-overzicht/kostenindicatie.md)
+* [Kostenindicaties](signalen-overzicht/kostenindicaties.md)
 * [Marktpartijen](signalen-overzicht/marktpartijen.md)
 
 ## Gebruikers Handleiding
