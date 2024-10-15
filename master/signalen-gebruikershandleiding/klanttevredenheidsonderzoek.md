@@ -18,7 +18,7 @@ Nadat een melding de status Afgehandeld heeft gekregen, wordt er een e-mail naar
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -26,7 +26,7 @@ De melder klikt op één van de twee smileys of linkjes en komt in een scherm me
 
 ### Tevreden
 
-<figure><img src=".gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 De melder kan aangeven waarom hij/zij tevreden is over de afhandeling van de melding.\
 Daarnaast is er nog een vrij tekstveld wat gebruikt kan worden.\
@@ -34,14 +34,14 @@ Nadat de melder op “Verstuur” heeft geklikt dan is de link niet meer geldig.
 
 ### Ontevreden
 
-<figure><img src=".gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
 De melder kan aangeven waarom hij/zij tevreden is over de afhandeling van de melding. Daarnaast kunnen er foto’s worden toegevoegd en is er een vrij tekstveld die gebruikt kan worden. Als laatste kan de melder ervoor kiezen om geen contact meer te willen. In dat geval is het niet meer mogelijk om berichten vanuit Signalen naar de melder te sturen.
 
 ## Verzoek tot Heropenen
 
 Afhankelijk van het gekozen antwoord bij een ontevreden reactie, komt de melding in Signalen op de status “Verzoek tot heropenen” te staan.\
-![](<.gitbook/assets/image (226).png>)\
+![](<../../.gitbook/assets/image (226).png>)\
 \
 De behandelaar kan kiezen om de melding te Heropenen en opnieuw te behandelen óf om de melding alsnog af te sluiten.\
 \
@@ -63,7 +63,7 @@ De behandelaar kan ervoor kiezen om niets met de melding te doen. De status van 
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -75,7 +75,7 @@ Let op! Toelichting is verplicht.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -87,13 +87,13 @@ Open het detailscherm van de melding en kijk naar “Meldingen van deze melder�
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (200).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (200).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
 Het aantal niet tevreden en openstaande klanttevredenheidsonderzoeken zijn direct zichtbaar. Klik op het totaal aantal meldingen van deze melder om details te zien over de klanttevredenheid.
 
-<figure><img src=".gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 Je ziet nu de meldingen met een tevreden of ontevreden respons maar ook meldingen waar (nog) geen klanttevredenheidsonderzoek is ingevuld.
 

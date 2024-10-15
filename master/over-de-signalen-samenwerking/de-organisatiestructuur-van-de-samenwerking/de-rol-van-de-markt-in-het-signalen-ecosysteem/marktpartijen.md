@@ -4,7 +4,7 @@ icon: store
 
 # Marktpartijen
 
-<figure><img src="../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 In 2024 wordt er gewerkt aan Signalen 2.0. Hierbij wordt de code vrijwel geheel herschreven om Signalen een modulaire opbouw te geven en is de code meteen gebouwd met de laatste technieken.\
 \

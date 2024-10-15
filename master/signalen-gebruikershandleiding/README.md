@@ -1,14 +1,10 @@
----
-icon: book-open
----
-
-# Inleiding
+# Signalen gebruikershandleiding
 
 ## **Over deze handleiding**
 
 Dit is de algemene handleiding voor Signalen die je kunt gebruiken om jezelf wegwijs te maken in de applicatie of om functionaliteiten te bekijken.
 
-Let op! De inrichting van Signalen kan verschillen per organisatie.
+Let op! De handleidingen van Signalen worden door verschillende gemeenten opgesteld. Hierdoor kunnen er verschillen ontstaan v.w.b. logo's, kleuren en categorieën.
 
 ## **Ondersteuning of meer informatie nodig?**
 

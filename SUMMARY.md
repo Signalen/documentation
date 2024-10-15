@@ -1,32 +1,34 @@
 # Table of contents
 
-* [Welkom](README.md)
-
-## Signalen Samenwerking <a href="#signalen-overzicht" id="signalen-overzicht"></a>
-
-* [Introductie](signalen-overzicht/untitled.md)
-* [Implementatiestappen](signalen-overzicht/implementatie.md)
-* [Community](signalen-overzicht/community.md)
-* [Hosting en beheer](signalen-overzicht/hosting-en-beheer.md)
-* [Inkoop & Aanbesteding dienstverlening](signalen-overzicht/inkoop-and-aanbesteding-dienstverlening.md)
-* [Kostenindicaties](signalen-overzicht/kostenindicaties.md)
-* [Marktpartijen](signalen-overzicht/marktpartijen.md)
-
-## Gebruikers Handleiding
-
-***
-
-* [Inleiding](inleiding.md)
-* [Inloggen](inloggen.md)
-* [Schermen (pagina's) in Signalen](schermen-paginas-in-signalen.md)
-* [Een melding maken](een-melding-maken.md)
-* [Een melding toewijzen](een-melding-toewijzen.md)
-* [Een melding behandelen](een-melding-behandelen.md)
-* [Zoeken, filteren en sorteren](zoeken-filteren-en-sorteren.md)
-* [Knoppen Delen, THOR, Extern en PDF](knoppen-delen-thor-extern-en-pdf.md)
-* [Bestand en notitie toevoegen](bestand-en-notitie-toevoegen.md)
-* [Klanttevredenheidsonderzoek](klanttevredenheidsonderzoek.md)
-* [Wijzigen contactgegevens](wijzigen-contactgegevens.md)
+* [Signalen documentatie](README.md)
+  * [Over de Signalen samenwerking](master/over-de-signalen-samenwerking/README.md)
+    * [Missie gedreven](master/over-de-signalen-samenwerking/missie-gedreven.md)
+    * [De meerwaarde van Samen Organiseren](master/over-de-signalen-samenwerking/de-meerwaarde-van-samen-organiseren.md)
+    * [Wat is de reikwijdte van de Signalen software?](master/over-de-signalen-samenwerking/wat-is-de-reikwijdte-van-de-signalen-software.md)
+    * [De organisatiestructuur van de samenwerking](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/README.md)
+      * [De stuurgroep op de samenwerking](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/de-stuurgroep-op-de-samenwerking.md)
+      * [Product sturing](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/product-sturing.md)
+      * [Het Signalen beheer- en ontwikkelteam](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/het-signalen-beheer-en-ontwikkelteam.md)
+      * [VNG GROEI](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/vng-groei.md)
+      * [De rol van de markt in het Signalen ecosysteem](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/de-rol-van-de-markt-in-het-signalen-ecosysteem/README.md)
+        * [Marktpartijen](master/over-de-signalen-samenwerking/de-organisatiestructuur-van-de-samenwerking/de-rol-van-de-markt-in-het-signalen-ecosysteem/marktpartijen.md)
+    * [Implementatiestappen](master/over-de-signalen-samenwerking/implementatie.md)
+    * [Inkoop & Aanbesteding dienstverlening](master/over-de-signalen-samenwerking/inkoop-and-aanbesteding-dienstverlening.md)
+    * [Community](master/over-de-signalen-samenwerking/community/README.md)
+      * [Handleidingen](master/over-de-signalen-samenwerking/community/handleidingen.md)
+    * [Hosting en beheer](master/over-de-signalen-samenwerking/hosting-en-beheer.md)
+    * [Kostenindicaties](master/over-de-signalen-samenwerking/kostenindicaties.md)
+  * [Signalen gebruikershandleiding](master/signalen-gebruikershandleiding/README.md)
+    * [Inloggen](master/signalen-gebruikershandleiding/inloggen.md)
+    * [Schermen (pagina's) in Signalen](master/signalen-gebruikershandleiding/schermen-paginas-in-signalen.md)
+    * [Een melding maken](master/signalen-gebruikershandleiding/een-melding-maken.md)
+    * [Een melding toewijzen](master/signalen-gebruikershandleiding/een-melding-toewijzen.md)
+    * [Een melding behandelen](master/signalen-gebruikershandleiding/een-melding-behandelen.md)
+    * [Zoeken, filteren en sorteren](master/signalen-gebruikershandleiding/zoeken-filteren-en-sorteren.md)
+    * [Knoppen Delen, THOR, Extern en PDF](master/signalen-gebruikershandleiding/knoppen-delen-thor-extern-en-pdf.md)
+    * [Bestand en notitie toevoegen](master/signalen-gebruikershandleiding/bestand-en-notitie-toevoegen.md)
+    * [Klanttevredenheidsonderzoek](master/signalen-gebruikershandleiding/klanttevredenheidsonderzoek.md)
+    * [Wijzigen contactgegevens](master/signalen-gebruikershandleiding/wijzigen-contactgegevens.md)
 
 ## BEHEER HANDLEIDING (frontend)
 

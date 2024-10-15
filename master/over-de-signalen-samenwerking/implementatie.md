@@ -1,11 +1,11 @@
 ---
-description: Signalen implementatie stappen voor gemeenten
 icon: sign-posts-wrench
+description: Signalen implementatie stappen voor gemeenten
 ---
 
 # Implementatiestappen
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
 
 Er zijn vijf implementatiestappen te definiëren. Vaak begint het met een idee, iemand heeft van Signalen gehoord en verzoekt een demo of meer informatie.
 

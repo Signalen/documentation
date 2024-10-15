@@ -4,7 +4,7 @@ icon: euro-sign
 
 # Kostenindicaties
 
-<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 **Signalen software**
 

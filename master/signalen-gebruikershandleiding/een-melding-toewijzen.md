@@ -28,25 +28,25 @@ De routeerregels worden toegepast wanneer een nieuwe melding binnenkomt in Signa
 
 Wanneer er een routeerregel is ingesteld dan komt een nieuwe melding automatisch op de betreffende afdeling te staan. Je kunt dit zien in de Geschiedenis, de melding is door "Signalen systeem" op een Afdeling gezet. Indien de melding door een medewerker op een Afdeling is gezet staat hier het e-mailadres van de betreffende medewerker en is het een handmatige actie geweest.
 
-<figure><img src=".gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 Hetzelfde zien we bij automatische routering tot op medewerkersniveau:
 
-<figure><img src=".gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 ### Melding zonder afdeling
 
 Wanneer er geen routeerregel is ingesteld dan komt een melding binnen op de Afdeling "Niet gekoppeld". Het is belangrijk dat de melding dan handmatig op een verantwoordelijke Afdeling wordt gezet.\
 \
 Via het Filter kan worden gezocht op meldingen met de Afdeling "Niet gekoppeld":\
-![](<.gitbook/assets/image (63).png>)
+![](<../../.gitbook/assets/image (63).png>)
 
 Open het detailscherm van een melding. In de rechter kolom zie je onder Afdeling "Niet gekoppeld" staan. Klik op het potloodje naast het veld om een Afdeling te kiezen:
 
-<figure><img src=".gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 Op basis van de subcategorie wordt een lijst van Afdelingen getoond waar je uit kunt kiezen:\
-![](<.gitbook/assets/image (65).png>)\
+![](<../../.gitbook/assets/image (65).png>)\
 Kies de Afdeling en klik op Opslaan. De melding is nu gekoppeld aan de Afdeling en de melding is zichtbaar in de werkvoorraad van de medewerkers die onder de afdeling vallen.
 
 ## Melding koppelen aan een medewerker
@@ -59,15 +59,15 @@ Het koppelen van een melding aan een medewerker kan via de routeerregels worden 
 
 Via het Filter kan er gezocht worden op meldingen die niet gekoppeld zijn aan een medewerker. Vink "Niet toegewezen" aan.&#x20;
 
-<figure><img src=".gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Klik op een melding om naar het detailscherm te gaan. Aan de rechterkant zie je staan dat een melding nog niet is toegewezen aan een medewerker:
 
-<figure><img src=".gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 Klik op het potloodje naast het veld "Toegewezen aan". Er verschijnt nu een keuzelijst met medewerkers die je aan de melding kunt koppelen. Kies de gewenste medewerker en klik op Opslaan.
 
-<figure><img src=".gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ## Melding toewijzen aan een andere afdeling/medewerker
 
@@ -75,5 +75,5 @@ Staat een melding aan de verkeerde afdeling of medewerker gekoppeld? Open de mel
 
 <table data-header-hidden><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td><strong>!</strong></td><td><mark style="background-color:green;">De Wil je de melding aan een afdeling koppelen die niet in de keuzelijst staat? Dan is de subcategorie waarschijnlijk verkeerd. Corrigeer eerst de subcategorie met behulp van het potloodje zodat je daarna de juiste afdeling kunt kiezen.</mark></td></tr></tbody></table>
 
-<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 

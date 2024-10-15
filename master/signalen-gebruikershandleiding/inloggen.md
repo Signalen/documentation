@@ -11,7 +11,7 @@ Na het klikken op de knop Inloggen,
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -19,7 +19,7 @@ kom je in een keuze scherm. Dit scherm kan per gemeente verschillen.
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

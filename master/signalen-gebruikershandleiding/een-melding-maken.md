@@ -14,7 +14,7 @@ Bewoners en bezoekers kunnen een Melding Openbare Ruimte maken via het meldformu
 
 ### Stap 1 Beschrijf uw melding
 
-<figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 Typ in het tekstveld waar de melding over gaat. Op basis van deze tekst koppelt Signalen de melding automatisch aan een categorie. Deze categorie bepaald welke kaart en aanvullende vragen er in stap 2 getoond zullen worden.\
 \
@@ -28,7 +28,7 @@ In de toekomst hopen we dat het mogelijk wordt om een melding op basis van een f
 
 ### Stap 2 Locatie en vragen
 
-<figure><img src=".gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Kies de locatie. Dit kan op diverse manieren:\
 **1. Zoek op adres of postcode**. Zoek op (een deel van) een straatnaam of op basis van postcode om een keuzelijst te zien. Kies het adres en de kaart wordt op die locatie ingezoomd. Er wordt automatisch een locatie geprikt.\
@@ -39,23 +39,23 @@ Kies de locatie. Dit kan op diverse manieren:\
 
 Optioneel kan er een kaart met objecten worden gekoppeld. Je ziet dan links bovenin het verzoek om in te zoomen. Vanaf een bepaald niveau worden de objecten getoond:
 
-<figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 De iconen op de kaart kunnen per type verschillen. Denk aan verschillende type lichtpunten maar ook verschillende soorten containers of (eikenprocessierups)bomen. Door met verschillende iconen en kleuren te werken kan een melder snel het juiste object vinden:
 
-![](<.gitbook/assets/image (54).png>)\
+![](<../../.gitbook/assets/image (54).png>)\
 \
 Optioneel kunnen gemelde objecten worden getoond om dubbele meldingen te voorkomen. Daarnaast worden melden van dezelfde subcategorie maar die geprikt zijn op de kaart in de vorm van een zwarte druppel getoond:\
-![](<.gitbook/assets/image (52).png>)
+![](<../../.gitbook/assets/image (52).png>)
 
 #### Aanvullende vragen
 
 Op basis van de categorie kunnen er aanvullende vragen worden gesteld of informatie worden weergegeven. Het is mogelijk om vragen op verschillende manieren te stellen zoals een keuzelijst, 'radiobuttons' of 'checkboxen'. Het is instelbaar om na het beantwoorden van een vraag, een extra vraag te stellen of informatie te geven:\
-![](<.gitbook/assets/image (53).png>)
+![](<../../.gitbook/assets/image (53).png>)
 
 ### Stap 3 Contactgegevens
 
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 Contactgegevens achterlaten is optioneel, zowel telefoonnummer als e-mailadres zijn niet verplicht. De gegevens worden niet onthouden of opgeslagen in de browser vanwege privacywetgeving.\
 \
@@ -67,7 +67,7 @@ De melder dient uitdrukkelijk toestemming te geven voor het delen van contactgeg
 
 ### Stap 4 Versturen
 
-<figure><img src=".gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 In de laatste stap krijgt de melder een samenvatting te zien van de ingevulde gegevens. Door middel van de knop "Wijzigen" kunnen de gegevens nog worden aangepast voordat ze naar de gemeente worden verstuurd. \
 Het is ook mogelijk om links bovenin op de stap te klikken en daar informatie te wijzigen.
@@ -80,7 +80,7 @@ Met de knop "Doe een melding" wordt het melders mogelijk gemaakt om direct een n
 
 ## Een melding maken (intern)
 
-<figure><img src=".gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 Het meldformulier voor intern gebruik wijkt alleen in stap 1 af. Het verschil zit in twee extra opties die een medewerker heeft:\
 1\. De medewerker is verplicht om een Bron te selecteren. Dit is het kanaal waarop de melding is binnengekomen.\
@@ -90,10 +90,10 @@ Het meldformulier voor intern gebruik wijkt alleen in stap 1 af. Het verschil zi
 
 Signalen heeft een eigen meldingenkaart waar openstaande meldingen op getoond worden. De URL is meldingen.\[gemeentenaam].nl/meldingenkaart.
 
-<figure><img src=".gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 Alle openstaande meldingen worden geplot op een kaart. De cijfers zijn gebundelde meldingen. Als je inzoomt zal een cirkel met cijfer erin uitsplitsen naar losse meldingen. Het kan zijn dat er op één locatie meerdere meldingen zijn gedaan. In dat geval blijft het een cirkel met cijfers tot je erop klikt:\
-![](<.gitbook/assets/image (60).png>)  ![](<.gitbook/assets/image (61).png>)
+![](<../../.gitbook/assets/image (60).png>)  ![](<../../.gitbook/assets/image (61).png>)
 
 Links kun je zoeken op een adres of filteren op een onderwerp. De onderwerpen die worden getoond zijn afhankelijk van de kaartweergave. Zoom je in dan zal de lijst aan de linkerkant kleiner worden.\
 \

@@ -4,7 +4,7 @@ icon: head-side-headphones
 
 # Hosting en beheer
 
-<figure><img src="../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
 
 Er zijn momenteel drie soorten 'hosting en beheer' binnen de Signalen samenwerking:
 

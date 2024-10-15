@@ -13,7 +13,7 @@ Klik op de knop "Bestand toevoegen":
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -25,7 +25,7 @@ Er is nu een bestand toegevoegd en in de Geschiedenis is terug te zien wie de fo
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -33,7 +33,7 @@ Ben je geautoriseerd om bijlagen te verwijderen? Dan zie je een prullenbakje in 
 
 Klik je op een foto dan opent die in groot scherm. Met behulp van de pijltjes kun je door de foto's heen bladeren. Bovenin staan de details van de foto:
 
-<figure><img src=".gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ### Foto openbaar maken
 
@@ -43,24 +43,24 @@ Vink "Openbaar tonen" aan en typ (optioneel) een toelichting. Klik op Opslaan om
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 Zowel de foto als je toelichting worden nu zichtbaar in het 'mijn meldingenoverzicht' van de melder. Je e-mailadres, die wel in Signalen zichtbaar is, wordt nooit gedeeld met de melder. Daarnaast is het niet mogelijk om PDF bestanden openbaar te maken.
 
-<figure><img src=".gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (171).png" alt=""><figcaption></figcaption></figure>
 
 ## Notitie toevoegen
 
 Met behulp van de knop "Notitie toevoegen" kun je een interne notitie aan de melding toevoegen. \
-![](<.gitbook/assets/image (172).png>)
+![](<../../.gitbook/assets/image (172).png>)
 
 Typ een toelichting, opmerking of informatie in het notitieveld van de melding en klik op Opslaan.
 
-<figure><img src=".gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 Je collega's kunnen nu je notitie terug zien. Een notitie kan achteraf niet meer gewijzigd of verwijderd worden.
 
-<figure><img src=".gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
 

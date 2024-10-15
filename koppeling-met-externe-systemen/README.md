@@ -130,7 +130,7 @@ Wanneer je geen koppeling wilt kun je, indien gewenst, gebruik maken van de e-ma
 
 ## Zo Gemeld
 
-Applicatie is gebouwd door marktpartij Delta10. Gratis te gebruiken door gebruikers en gemeenten die Signalen gebruiken. Melder kan de voortgang van de melding zien in de Zo Gemeld app. Let op! Ook meldingen die anoniem zijn gedaan kan de melder terugzien en bekijken. Lijkt zeer op [#mijn-meldingenoverzicht](../schermen-paginas-in-signalen.md#mijn-meldingenoverzicht "mention"). \
+Applicatie is gebouwd door marktpartij Delta10. Gratis te gebruiken door gebruikers en gemeenten die Signalen gebruiken. Melder kan de voortgang van de melding zien in de Zo Gemeld app. Let op! Ook meldingen die anoniem zijn gedaan kan de melder terugzien en bekijken. Lijkt zeer op [#mijn-meldingenoverzicht](../master/signalen-gebruikershandleiding/schermen-paginas-in-signalen.md#mijn-meldingenoverzicht "mention"). \
 \
 Wanneer een melder een melding wil maken bij een gemeente die geen Signalen gebruikt dan krijgt de persoon een rode waarschuwing in beeld en kan de melder niet door met het aanmaken van een melding.\
 \

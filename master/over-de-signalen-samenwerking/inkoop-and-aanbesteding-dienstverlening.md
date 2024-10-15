@@ -16,7 +16,7 @@ Bij het ‘download scenario’ hoef je geen aanbesteding te doen om open source
 
 [https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2022/05/18/publieke-waarden-en-rechten-bij-aanbesteden-van-ict---handreiking-aanbesteden-van-open-source-software-ii/epub+publieke-waarden-en-rechten-bij-aanbesteden-van-ict.epub](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2022/05/18/publieke-waarden-en-rechten-bij-aanbesteden-van-ict---handreiking-aanbesteden-van-open-source-software-ii/epub+publieke-waarden-en-rechten-bij-aanbesteden-van-ict.epub)
 
-<figure><img src="../.gitbook/assets/Schermafbeelding 2024-10-14 om 09.01.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Schermafbeelding 2024-10-14 om 09.01.53.png" alt=""><figcaption></figcaption></figure>
 
 Je bent als gemeente vrij om te kiezen met welke marktpartij je deze dienstverlening wil invullen. In het Signalen ecosysteem zijn er momenteel een aantal partijen die zich actief profileren;
 
