@@ -4,8 +4,6 @@ icon: euro-sign
 
 # Kostenindicaties
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
-
 **Signalen software**
 
 Signalen is beschikbaar onder een Open Source Licentie en kan zodoende vrij van kosten gebruikt worden. Iedereen kan Signalen 'downloaden' en onder de condities van de open source licentie gebruiken.&#x20;
@@ -27,3 +25,9 @@ Daarnaast zijn er gemeenten die, naast de community bijdrage, ook inzet in natur
 Indien een gemeente een alternatieve vorm van communitybijdrage wil leveren, dan vragen wij om dit op voorhand met de stuurgroep af te stemmen.
 
 De Signalen Stuurgroep heeft tevens de ambitie om Signalen door de Taskforce Samen Organiseren en het College voor Dienstverleningszaken tot standaard te laten verklaren _(pas toe of leg uit)_ Op die manier worden de gemeenschappelijke kosten van de Signalen samenwerking uit het GGU (Gemeenschappelijke Gemeentelijke Uitvoering) bekostigd en komt de individuele community bijdrage voor gemeenten te vervallen.  &#x20;
+
+<div data-full-width="true">
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
