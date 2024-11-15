@@ -14,7 +14,7 @@ In dit hoofdstuk geven we een uiteenzetting van de organisatiestructuur waarmee 
 
 De samenwerkende gemeenten organiseren zich in de volgende kerngroepen&#x20;
 
-* Stuurgroep op de samenwerking&#x20;
+* Regiegroep op de samenwerking&#x20;
 * Productsturing (klankbordgroep en Product Owner)&#x20;
 * Signalen ontwikkelteam&#x20;
 * Werkgroepen op thema (Beveiliging, Inkoop\&Contractbeheer etc.)

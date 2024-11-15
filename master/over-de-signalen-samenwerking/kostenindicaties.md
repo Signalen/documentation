@@ -20,11 +20,11 @@ Signalen is onder de open source licentie vrij te gebruiken. Dat betekent ook da
 
 Om de Signalen samenwerking en de software goed en gezond te houden vragen we deelnemende gemeenten een financiële bijdrage te doen voor het afdekken van onze gemeenschappelijke kosten. Dit verzoek komt voort uit het principe van sociale wederkerigheid waarmee we een moreel appel doen op gemeenten om de Signalen community financieel te steunen.&#x20;
 
-Daarnaast zijn er gemeenten die, naast de community bijdrage, ook inzet in natura leveren in de Stuurgroep of de Productsturing. Gemeenten kunnen ook een bijdrage leveren aan de community door bepaalde functionaliteiten van de backlog te (laten) realiseren.&#x20;
+Daarnaast zijn er gemeenten die, naast de community bijdrage, ook inzet in natura leveren in de Regiegroep of de Productsturing. Gemeenten kunnen ook een bijdrage leveren aan de community door bepaalde functionaliteiten van de backlog te (laten) realiseren.&#x20;
 
-Indien een gemeente een alternatieve vorm van communitybijdrage wil leveren, dan vragen wij om dit op voorhand met de stuurgroep af te stemmen.
+Indien een gemeente een alternatieve vorm van community bijdrage wil leveren, dan vragen wij om dit op voorhand met de Regiegroep af te stemmen.
 
-De Signalen Stuurgroep heeft tevens de ambitie om Signalen door de Taskforce Samen Organiseren en het College voor Dienstverleningszaken tot standaard te laten verklaren _(pas toe of leg uit)_ Op die manier worden de gemeenschappelijke kosten van de Signalen samenwerking uit het GGU (Gemeenschappelijke Gemeentelijke Uitvoering) bekostigd en komt de individuele community bijdrage voor gemeenten te vervallen.  &#x20;
+De Signalen Regiegroep heeft tevens de ambitie om Signalen door de Taskforce Samen Organiseren en het College voor Dienstverleningszaken tot standaard te laten verklaren _(pas toe of leg uit)_ Op die manier worden de gemeenschappelijke kosten van de Signalen samenwerking uit het GGU (Gemeenschappelijke Gemeentelijke Uitvoering) bekostigd en komt de individuele community bijdrage voor gemeenten te vervallen.  &#x20;
 
 <div data-full-width="true">
 
