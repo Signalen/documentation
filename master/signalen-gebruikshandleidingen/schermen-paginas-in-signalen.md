@@ -28,7 +28,8 @@ Toelichting genummerde onderdelen:\
 In Mijn filters vind je het overzicht terug met persoonlijke, en onder jouw account aangemaakte, opgeslagen filters:\
 <img src="../../.gitbook/assets/image (110).png" alt="" data-size="original">\
 \
-7\. Je kunt wisselen tussen een lijstweergave of kaartweergave. De meldingen uit het overzicht worden dan op een kaart getoond:\
+7\. Je kunt wisselen tussen een lijstweergave of kaartweergave. De meldingen uit het overzicht worden dan op een kaart getoond.\
+Tip: dubbelklik om in te zoomen en SHIFT+dubbelklik voor uitzoomen\
 ![](<../../.gitbook/assets/image (112).png>)
 
 ## Detailscherm melding
@@ -44,7 +45,7 @@ Toelichting genummerde onderdelen:\
 \
 3\. Locatie van de melding, antwoorden op aanvullende vragen en contactgegevens van de melder.\
 \
-_Optionele functionaliteit_\
+&#xNAN;_&#x4F;ptionele functionaliteit_\
 Wanneer een melder meerdere meldingen heeft ingediend kan er onderaan een weergave komen                    van het totaal aantal meldingen dat een melding heeft ingediend:\
 ![](<../../.gitbook/assets/image (114).png>)\
 \
@@ -144,8 +145,4 @@ Signalen kent een standaard openbare meldingenkaart (URL: https://meldingen.\[ge
 
 Selecteer je een melding dan zal de melding op de kaart een rode kleur krijgen. Aan de linkerkant worden de subcategorie, datum indiening en het adres dichtbij getoond:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure></div>
