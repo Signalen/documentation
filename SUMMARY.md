@@ -59,3 +59,4 @@
     * [Technische architectuur](master/archiveren-en-ict-koppelingen/technische-architectuur.md)
     * [Machine learning](master/archiveren-en-ict-koppelingen/machine-learning.md)
     * [Veelvoorkomende problemen](master/archiveren-en-ict-koppelingen/veelvoorkomende-problemen.md)
+    * [Programma van Eisen (PvE)](readme/archiveren-en-ict-koppelingen/programma-van-eisen-pve.md)
