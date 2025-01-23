@@ -32,6 +32,8 @@ In Mijn filters vind je het overzicht terug met persoonlijke, en onder jouw acco
 Tip: dubbelklik om in te zoomen en SHIFT+dubbelklik voor uitzoomen\
 ![](<../../.gitbook/assets/image (112).png>)
 
+
+
 ## Detailscherm melding
 
 Via het Overzicht kun je doorklikken naar een melding. In dit scherm worden de detailgegevens van een melding getoond en kan de melding worden behandeld en afgehandeld.
@@ -128,6 +130,16 @@ In het detailscherm van de melding in het Mijn Meldingenoverzicht ziet de melder
 3. Foto's van de melder én openbaar gemaakte foto's door de behandelaar inclusief toelichting
 4. Locatie en eventueel antwoorden op aanvullende vragen
 5. De servicebelofte en statuswijzigingen met tekst van de behandelaar die ook in de e-mail naar de melder is verzonden
+
+LET OP! Niet alle statuswijzigingen worden getoond in Mijn Meldingenoverzicht.\
+Deze statussen worden in het overzicht getoond:\
+\- In behandeling (mits 'bericht aan melder' is gekozen)\
+\- Reactie gevraagd\
+\- Afgehandeld\
+\
+De status "Ingepland" wordt NIET in het meldingenoverzicht getoond, ook niet als 'bericht aan melder' is aangevinkt.\
+\
+![](<../../.gitbook/assets/image (267).png>)
 
 ## Openbare meldingenkaart
 

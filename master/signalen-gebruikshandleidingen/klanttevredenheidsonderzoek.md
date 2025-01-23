@@ -16,11 +16,7 @@ Voorwaarden:\
 
 Nadat een melding de status Afgehandeld heeft gekregen, wordt er een e-mail naar de melder verstuurd. In deze e-mail zit een link naar het klanttevredenheidsonderzoek.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure></div>
 
 De melder klikt op één van de twee smileys of linkjes en komt in een scherm met verschillende opties terecht.
 
@@ -46,7 +42,7 @@ Afhankelijk van het gekozen antwoord bij een ontevreden reactie, komt de melding
 De behandelaar kan kiezen om de melding te Heropenen en opnieuw te behandelen óf om de melding alsnog af te sluiten.\
 \
 Verzoek tot heropenen > Heropend > (optioneel: In behandeling) > Afgehandeld met mail naar melder\
-_Of_\
+&#xNAN;_&#x4F;f_\
 Verzoek tot heropenen > Afgehandeld zonder mail naar de melder
 
 ### Heropend
@@ -61,11 +57,7 @@ Indien de melder ontevreden is kan de melding opnieuw op de status “Verzoek to
 
 De behandelaar kan ervoor kiezen om niets met de melding te doen. De status van de melding kan gewijzigd worden naar “Afgehandeld”. Er wordt geen bericht verstuurd aan de melder.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Contact met melder
 
@@ -73,11 +65,7 @@ Bij een ontevreden reactie kan de melder ervoor kiezen om geen contact meer te w
 \
 Let op! Toelichting is verplicht.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (199).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Optioneel: KTO terug zien in de melding
 
@@ -85,11 +73,7 @@ De terugkoppeling van een melder kan in Signalen, in het detailscherm van de mel
 
 Open het detailscherm van de melding en kijk naar “Meldingen van deze melder”. Het aantal meldingen is gebaseerd op het e-mailadres.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (200).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (200).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 Het aantal niet tevreden en openstaande klanttevredenheidsonderzoeken zijn direct zichtbaar. Klik op het totaal aantal meldingen van deze melder om details te zien over de klanttevredenheid.
 

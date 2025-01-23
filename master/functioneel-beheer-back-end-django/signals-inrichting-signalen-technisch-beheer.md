@@ -48,7 +48,7 @@ OR = OF en zet je tussen haakjes
 
 AND = EN en hoeft niet tussen haakjes
 
-### &#x20;_Voorbeeld 1:_
+### &#x20;&#xNAN;_&#x56;oorbeeld 1:_
 
 (location in areas."district"."Binnenstad" or location in areas."district"."Graafsepoort" or location in areas."district"."Muntel / Vliert" or location in areas."district"."Zuidoost") and AFV\_keuzemogelijkheden == "Illegale stort" and sub == "Vervuiling openbare ruimte"
 
@@ -156,7 +156,7 @@ Alle aanvullende vragen worden voorafgegaan door locatievragen, zodat de melder 
 
 <mark style="background-color:yellow;">"label": "Selecteer de straatverlichting waar het om gaat",</mark>
 
-<mark style="background-color:yellow;">"endpoint": "</mark>[<mark style="background-color:yellow;">\[URL\]</mark>](https://geoserver.luminizer.nl/geoserver/luminizer\_317/ows?service=WFS\&version=1.0.0\&request=GetFeature\&typeName=luminizer\_317:mast\&outputFormat=application/json\&srsName=%7bsrsName%7d\&bbox=%7bwest%7d,%7bsouth%7d,%7beast%7d,%7bnorth%7d)<mark style="background-color:yellow;">",</mark>
+<mark style="background-color:yellow;">"endpoint": "</mark>[<mark style="background-color:yellow;">\[URL\]</mark>](https://geoserver.luminizer.nl/geoserver/luminizer_317/ows?service=WFS\&version=1.0.0\&request=GetFeature\&typeName=luminizer_317:mast\&outputFormat=application/json\&srsName=%7bsrsName%7d\&bbox=%7bwest%7d,%7bsouth%7d,%7beast%7d,%7bnorth%7d)<mark style="background-color:yellow;">",</mark>
 
 <mark style="background-color:yellow;">"language": {</mark>
 
@@ -240,27 +240,15 @@ Meta Standaard vragen (RadioInput)
 
 Citation:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (98).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (98).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 &#x20;Caution:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (99).png" alt="" width="258"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (99).png" alt="" width="258"><figcaption></figcaption></figure></div>
 
 Alert:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (100).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (100).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 #### Validators
 
