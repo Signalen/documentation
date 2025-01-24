@@ -81,7 +81,7 @@ Als de melding in City Control is afgehandeld wordt de status vanuit City Contro
 
 ### Techniek
 
-De koppeling is tweeweg en werkt op basis van STuF-ZKN. Er worden drie berichten gebruikt:
+De koppeling is tweeweg en werkt op basis van STuF-ZKN 1.0. Er worden drie berichten gebruikt:
 
 ·         creeerZaak: Maakt een zaak aan vanuit Signalen in City Control
 
@@ -95,14 +95,6 @@ Signalen authenticeert op basis van Basic authentication bij City Control. City 
 
 Signalen biedt daarnaast de mogelijkheid om op basis van tweezijdig TLS te authenticeren. Dit kan worden gebruikt als de gemeente ervoor kiest om een API gateway tussen het verkeer van Signalen en City Control te plaatsen.
 
-
-
-## Luminizer koppeling
-
-Nog verder uit te werken. Betreft openbare verlichting. Het koppelvlak is technisch gelijk aan dat van de gemeente Utrecht.
-
-
-
 ## MOON koppeling
 
 Een melding wordt door MOON opgehaald en in hun systeem gezet. Dit gebeurd in overleg met de gemeente. Vaak op basis van een combinatie van Status, Afdeling en Subcategorie. \
@@ -114,18 +106,33 @@ Onderstaande tabel is een voorbeeld. Alles is in samenwerking met MOON af te ste
 
 <table><thead><tr><th width="209">Status MOON</th><th width="74">Code</th><th width="140">Status Signalen</th><th width="222">Tekst Signalen</th><th>Mail naar melder</th></tr></thead><tbody><tr><td>// 0.0 Melding nog niet gehonoreerd</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Melding nog niet gehonoreerd</td><td>Nee</td></tr><tr><td>// 0.1 Locatie onbekend</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Locatie onbekend</td><td>Nee</td></tr><tr><td>// 0.2 Geen contractpartner toegekend</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Geen contractpartner toegekend</td><td>Nee</td></tr><tr><td>// 2.0 Aannemer</td><td>m</td><td>GEMELD</td><td>Uw melding is doorgezet naar onze aannemer.</td><td>Nee</td></tr><tr><td>// 2.1 Aannemer - afwachting van onderaannemer</td><td>o</td><td>AFGEHANDELD</td><td>Onze aannemer heeft vastgesteld dat het om een netwerkstoring gaat. De storing is doorgegeven aan de netwerkbeheerder. Een netwerkstoring kan wat langer duren dan het vervangen van een gewone defecte lamp. Wij werken met onze aannemer / Enexis inmiddels aan het herstel van deze storing. Wij hopen de verlichting zo spoedig mogelijk te herstellen en vragen hiervoor uw begrip. Om administratieve redenen geven wij nu de status ‘afgehandeld’ aan uw melding.</td><td>Ja</td></tr><tr><td>// 3.1 Monteur - storing in behandeling</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Aannemer - afwachting van onderaannemer</td><td>Nee</td></tr><tr><td>// 3.2 Aannemer - afwachting van netleverancier</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Monteur - storing in behandeling</td><td>Nee</td></tr><tr><td>// 3.2 Monteur - storing onvolledig / niet te verwerken</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Monteur - storing onvolledig / niet te verwerken</td><td>Nee</td></tr><tr><td>// 3.2 Monteur - materiaal in bestelling</td><td>ingepland</td><td>INGEPLAND</td><td>We hebben materiaal besteld om uw melding te kunnen behandelen. Wij hopen de verlichting zo spoedig mogelijk te herstellen en vragen hiervoor uw begrip.</td><td>Ja</td></tr><tr><td>// 3.3 Monteur - storing verwerkt</td><td>b</td><td>IN BEHANDELING</td><td>Moon: Monteur - storing verwerkt</td><td>Nee</td></tr><tr><td>// 3.4 Aannemer - storing goedgekeurd</td><td>b</td><td>IN BEHANDELING</td><td>Moon: Aannemer - storing goedgekeurd</td><td>Nee</td></tr><tr><td>// 4.0 Beheerder</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Beheerder</td><td>Nee</td></tr><tr><td>// 4.1 Beheerder - opdracht voor verwerking</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Beheerder - opdracht voor verwerking</td><td>Nee</td></tr><tr><td>// 4.2 Beheerder - afwachting van netleverancier</td><td>o</td><td>AFGEHANDELD</td><td>Onze aannemer heeft vastgesteld dat het om een netwerkstoring gaat. De storing is doorgegeven aan de netwerkbeheerder. Een netwerkstoring kan wat langer duren dan het vervangen van een gewone defecte lamp. Wij werken met onze aannemer / Enexis inmiddels aan het herstel van deze storing. Wij hopen de verlichting zo spoedig mogelijk te herstellen en vragen hiervoor uw begrip. Om administratieve redenen geven wij nu de status ‘afgehandeld’ aan uw melding.</td><td>Ja</td></tr><tr><td>// 4.3 Beheerder - verwerking afgekeurd</td><td>i</td><td>IN AFWACHTING VAN TOEWIJZING</td><td>Moon: Beheerder - verwerking afgekeurd</td><td>Nee</td></tr><tr><td>// 4.4 Beheerder - verwerking goedgekeurd</td><td>o</td><td>AFGEHANDELD</td><td>De verlichting is hersteld.</td><td>Ja</td></tr></tbody></table>
 
+
+
+## Luminizer koppeling
+
+Betreft openbare verlichting. Het koppelvlak is technisch gelijk aan dat van de gemeente Utrecht.
+
+## Cityview koppeling
+
+Betreft openbare verlichting. Gemeente Zaanstad is hiermee gekoppeld.
+
+## Nobralux / Lightweb
+
+Betreft openbare verlichting. Gaat in 2025 over naar Cityview. In gebruik bij gemeente Assen.
+
 ## TechView
 
 Bij gemeente Helmond in gebruik. TechView haalt meldingen op uit Signalen en zet ze in de eigen applicatie. Statuswijzigingen in TechView worden ook naar Signalen verstuurd waardoor er een actuele status in beide systemen te zien is. Via de WFS service worden objecten op de kaart getoond en is voor de melder ook te zien wanneer een object al is gemeld. \
+\
 Storingen die direct in TechView worden gemaakt worden als anonieme melding naar Signalen gestuurd zodat daar ook een volledig overzicht is.
 
 ## BuitenBeterApp
 
-Applicatie is gebouwd door Beheervisie/Progresity. Gratis te gebruiken voor melders. Koppeling is voor 25.000 euro per jaar te realiseren. De melder kan de voortgang van de melding zien in de BuitenBeter app.&#x20;
+Applicatie is gebouwd door Beheervisie/Progresity. Gratis te gebruiken voor melders. De melder kan de voortgang van de melding zien in de BuitenBeter app.&#x20;
+
+Tegen betaling is een koppeling tussen de BuitenBeterApp en Signalen te realiseren. Meldingen die in de BuitenBeterApp worden gedaan komen dan netjes in Signalen terecht. De melder kan de voortgang van de melding in de BuitenBeterApp terug zien.
 
 Wanneer je geen koppeling wilt kun je, indien gewenst, gebruik maken van de e-mails die Beheervisie/Progresity naar een algemeen mailadres van de gemeente stuurt. De e-mails hebben altijd hetzelfde format en kunnen met behulp van een servicegateway of broker worden opgepakt en in Signalen worden gezet. De melder kan de voortgang dan **niet** terug zien in de BuitenBeter app.
-
-
 
 ## Zo Gemeld
 
@@ -140,8 +147,6 @@ Zo Gemeld is er voor inwoners die een melding willen doen. Het melden gaat in vi
 4\. Controleren en versturen\
 \
 De app onthoudt de contactgegevens van de melder, zodat deze de volgende keer snel nog een melding kan doen.
-
-
 
 ## Zo Hersteld
 
@@ -167,7 +172,9 @@ Zaaksysteem
 
 ## Xxllnc
 
-Zaaksysteem (gem. Utrecht)
+Zaaksysteem. Gemeente Utrecht heeft een minimale koppeling met het oude zaaksysteem van Xxllnc. De koppeling in het oude zaaksysteem maakt een zaak aan met enkel het Signalen meldingsnummer, zodat het KCC bij het zoeken naar een zaak-/meldingsnummer kan herkennen dat het om een Signalen melding ging. \
+\
+Utrecht gaat over naar het nieuwe zaaksysteem van Xxllnc maar zullen de koppeling niet meenemen. Reden hiervoor is dat het KCC direct in Signalen werkt en niet meer in het zaaksysteem.
 
 ## MijnOmgeving
 
@@ -175,7 +182,7 @@ Onbekend.
 
 ## 21Qubz
 
-Inzamelen en verwerken van afval- en grondstoffen. Gemeente Assen en Zaanstad zijn deze koppeling aan het realiseren
+Inzamelen en verwerken van afval- en grondstoffen. Gemeente Assen, Groningen en Amsterdam hebben een koppeling. Gemeente Utrecht heeft de koppeling afgenomen maar is nog niet actief. Samen met de gemeente Zaanstad zijn ze bezig met een doorontwikkeling van de koppeling omdat er diverse wensen zijn over de werking.
 
 ## Rioned
 
