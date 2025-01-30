@@ -95,6 +95,12 @@ Signalen authenticeert op basis van Basic authentication bij City Control. City 
 
 Signalen biedt daarnaast de mogelijkheid om op basis van tweezijdig TLS te authenticeren. Dit kan worden gebruikt als de gemeente ervoor kiest om een API gateway tussen het verkeer van Signalen en City Control te plaatsen.
 
+### AVG en WPG
+
+De meldingen in Signalen vallen onder de AVG wetgeving, niet onder WPG. De reden hiervoor is dat een MOR melding geen formele constatering is op basis waarvan een BOA kan handhaven. Een handhaver moet altijd zélf de constatering doen en dat doen ze in een handhaafapplicatie zoals CityControl.\
+\
+Voor de volledigheid: Bovenstaande informatie is getoetst bij privacy officers van diverse gemeenten, de FG van gemeente Amsterdam en de THOR product owner van gemeente Amsterdam.
+
 ## MOON koppeling
 
 Een melding wordt door MOON opgehaald en in hun systeem gezet. Dit gebeurd in overleg met de gemeente. Vaak op basis van een combinatie van Status, Afdeling en Subcategorie. \
