@@ -170,11 +170,11 @@ Aan het gebruik van Zo Hersteld zijn kosten verbonden. Voor meer informatie kun 
 
 ## Djuma
 
-Zaaksysteem. Gemeente Almere is deze koppeling aan het realiseren.&#x20;
+Zaaksysteem. Er is nog geen gemeente gekoppeld met Djuma.
 
 ## OpenZaak
 
-Zaaksysteem
+Zaaksysteem. Er is nog geen gemeente gekoppeld met Djuma.
 
 ## Xxllnc
 
