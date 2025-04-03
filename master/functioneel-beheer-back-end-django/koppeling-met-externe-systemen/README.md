@@ -190,6 +190,10 @@ Onbekend.
 
 Inzamelen en verwerken van afval- en grondstoffen. Gemeente Assen, Groningen en Amsterdam hebben een koppeling. Gemeente Utrecht heeft de koppeling afgenomen maar is nog niet actief. Samen met de gemeente Zaanstad zijn ze bezig met een doorontwikkeling van de koppeling omdat er diverse wensen zijn over de werking.
 
+## Saver
+
+Applicatie mbt afval. Gemeente Bergen op Zoom heeft hiermee een koppeling gerealiseerd. Saver pollt of er meldingen zijn en zet die in hun systeem. Meldingen die in Saver zijn afgehandeld worden ook in Signalen op Afgehandeld gezet.
+
 ## Rioned
 
 Applicatie voor o.a. riolering. Gemeente Den Haag heeft hiermee een koppeling. Werkt nog niet goed ivm tonen vlakken, daar kan Signalen nog niet mee om gaan.
