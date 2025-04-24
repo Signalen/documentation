@@ -174,7 +174,7 @@ Zaaksysteem. Er is nog geen gemeente gekoppeld met Djuma.
 
 ## OpenZaak
 
-Zaaksysteem. Er is nog geen gemeente gekoppeld met Djuma.
+Zaaksysteem. Er is nog geen gemeente gekoppeld met OpenZaak.
 
 ## Xxllnc
 
