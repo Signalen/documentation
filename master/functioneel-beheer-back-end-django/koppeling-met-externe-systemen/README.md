@@ -71,6 +71,44 @@ Eventueel kan het externe taakafhandelsysteem rekening houden met het feit dat m
 
 Dit kan het externe taakafhandelsysteem doen door periodiek de API te pollen voor de lopende meldingen en meldingen af te sluiten in het eigen systeem op het moment dat de categorie gewijzigd wordt of de status aangepast wordt.
 
+## Statussen
+
+Signalen kent diverse statussen die uitgewisseld kunnen worden:\
+\
+&#x20; Gemeld = 'm',
+
+&#x20; In Afwachting van behandeling = 'i',
+
+&#x20; Behandeling = 'b',
+
+&#x20; Afgehandeld = 'o',
+
+&#x20; Ingepland = 'ingepland',
+
+&#x20; Geannuleerd = 'a',
+
+&#x20; Gesplitst = 's',
+
+&#x20; VerzoekTotHeropenen = 'reopen requested',
+
+&#x20; ReactieGevraagd = 'reaction requested',
+
+&#x20; ReactieOntvangen = 'reaction received',
+
+&#x20; Heropend = 'reopened',
+
+&#x20; TeVerzenden = 'ready to send',
+
+&#x20; Verzonden = 'sent',
+
+&#x20; VerzendenMislukt = 'send failed',
+
+&#x20; VerzoekTotAfhandeling = 'closure requested',
+
+&#x20; DoorgezetNaarExtern = 'forward to external',
+
+&#x20; AfgehandeldExtern = 'done external',
+
 
 
 ## Sigmax City Control
