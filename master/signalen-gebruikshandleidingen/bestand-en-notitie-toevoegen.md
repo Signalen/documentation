@@ -11,11 +11,7 @@ icon: paperclip-vertical
 Als behandelaar kun je een foto of PDF bestand als bijlage toevoegen aan een melding.\
 Klik op de knop "Bestand toevoegen":
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure></div>
 
 Gebruik je deze functie op een telefoon of tablet (device met camera) dan krijg je de vraag of je je camera wilt openen of je bibliotheek. Kies je voor camera dan kun je een foto maken. Kies je voor bibliotheek dan kun je een bestand kiezen. \
 \
@@ -23,11 +19,7 @@ Een bestand dient het formaat .jpeg, .jpg, .png, .gif of .pdf te hebben.
 
 Er is nu een bestand toegevoegd en in de Geschiedenis is terug te zien wie de foto heeft toegevoegd.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (168).png" alt=""><figcaption></figcaption></figure></div>
 
 Ben je geautoriseerd om bijlagen te verwijderen? Dan zie je een prullenbakje in de rechter bovenhoek van het bestand.
 
@@ -41,11 +33,7 @@ Klik op het potloodje in de foto om de foto openbaar te maken. Openbare foto's w
 \
 Vink "Openbaar tonen" aan en typ (optioneel) een toelichting. Klik op Opslaan om de foto openbaar te maken.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure></div>
 
 Zowel de foto als je toelichting worden nu zichtbaar in het 'mijn meldingenoverzicht' van de melder. Je e-mailadres, die wel in Signalen zichtbaar is, wordt nooit gedeeld met de melder. Daarnaast is het niet mogelijk om PDF bestanden openbaar te maken.
 
@@ -56,11 +44,19 @@ Zowel de foto als je toelichting worden nu zichtbaar in het 'mijn meldingenoverz
 Met behulp van de knop "Notitie toevoegen" kun je een interne notitie aan de melding toevoegen. \
 ![](<../../.gitbook/assets/image (172).png>)
 
-Typ een toelichting, opmerking of informatie in het notitieveld van de melding en klik op Opslaan.
+Typ een toelichting, opmerking of informatie in het notitieveld van de melding en klik op Opslaan. Het is vanaf versie FE 2.26.12 en BE 2.43.0 mogelijk om je notitie een opmaak mee te geven zoals een dikgedrukte of schuingedrukte tekst.\
+\
+**Dikgedrukt**: Zet je tekst tussen twee sterretjes. Zorg ervoor dat er geen spatie tussen de tekst en de sterretjes staat. Anders wordt de opmaak niet goed overgenomen. Zie voorbeeld hieronder.
+
+_Schuingedrukt_: Zet je tekst tussen één underscore lijn. Zie voorbeeld hieronder.
+
+```
+**dikgedrukte tekst**
+_schuingedrukte tekst_
+```
 
 <figure><img src="../../.gitbook/assets/image (173).png" alt=""><figcaption></figcaption></figure>
 
 Je collega's kunnen nu je notitie terug zien. Een notitie kan achteraf niet meer gewijzigd of verwijderd worden.
 
-<figure><img src="../../.gitbook/assets/image (174).png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
