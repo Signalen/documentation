@@ -174,9 +174,7 @@ Storingen die direct in TechView worden gemaakt worden als anonieme melding naar
 
 Applicatie is gebouwd door Beheervisie/Progresity. Gratis te gebruiken voor melders. De melder kan de voortgang van de melding zien in de BuitenBeter app.&#x20;
 
-Tegen betaling is een koppeling tussen de BuitenBeterApp en Signalen te realiseren. Meldingen die in de BuitenBeterApp worden gedaan komen dan netjes in Signalen terecht. De melder kan de voortgang van de melding in de BuitenBeterApp terug zien.
-
-Wanneer je geen koppeling wilt kun je, indien gewenst, gebruik maken van de e-mails die Beheervisie/Progresity naar een algemeen mailadres van de gemeente stuurt. De e-mails hebben altijd hetzelfde format en kunnen met behulp van een servicegateway of broker worden opgepakt en in Signalen worden gezet. De melder kan de voortgang dan **niet** terug zien in de BuitenBeter app.
+Wanneer je geen koppeling hebt kun je, indien gewenst, gebruik maken van de e-mails die Beheervisie/Progresity naar een algemeen mailadres van de gemeente stuurt. De e-mails hebben altijd hetzelfde format en kunnen met behulp van een servicegateway of broker worden opgepakt en in Signalen worden gezet. De melder kan de voortgang dan **niet** terug zien in de BuitenBeter app. Er zijn diverse gemeenten die intern een mail-import hebben gerealiseerd om BBA mailtjes direct in Signalen te registreren.
 
 ## Zo Gemeld
 
