@@ -8,28 +8,18 @@ Signalen verstuurt transactionele mail naar melders en behandelaren om ze te inf
 
 ### Basisconfiguratie <a href="#basisconfiguratie" id="basisconfiguratie"></a>
 
-1.  Zoek in het Azure Portaal naar “Microsoft Entra ID” en klik op de service.\
+1.  Zoek in het Azure Portaal naar “Microsoft Entra ID” en klik op de service.<br>
 
-
-    <div align="left">
-
-    <figure><img src="https://docs.delta10.nl/assets/signalen/single-sign-on/1-search-sso.png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="https://docs.delta10.nl/assets/signalen/single-sign-on/1-search-sso.png" alt=""><figcaption></figcaption></figure></div>
 2. Klik op “App registrations" in het linkermenu.
 3. Klik op de aangemaakte app registratie voor Signalen.
 4. Klik op "API permissions".
 5. Klik op "Add a permission".
 6. Kies voor "Microsoft Graph".
 7. Kies voor "Application permissions".
-8.  Zoek op de permissie "Mail.Send".\
+8.  Zoek op de permissie "Mail.Send".<br>
 
-
-    <div align="left">
-
-    <figure><img src="https://docs.delta10.nl/assets/signalen/outgoing-e-mail/1-select-permission.png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="https://docs.delta10.nl/assets/signalen/outgoing-e-mail/1-select-permission.png" alt=""><figcaption></figcaption></figure></div>
 9. Klik op "Add permissions" om de permissie toe te voegen aan de applicatie.
 10. Klik op de knop "Grant admin consent for ...." om de permissies toe te kennen aan de applicatie. Er staat nu een groen vinkje achter de applicatie.
 

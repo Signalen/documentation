@@ -31,8 +31,7 @@ Bij een anonieme melding is het _niet_ mogelijk om alleen een telefoonnummer toe
 ### Telefoonnummer wijzigen
 
 Alleen het telefoonnummer wijzigen is zonder verificatie mogelijk.\
-Is er ook een e-mailadres ingevuld? Dan krijgt de melder per e-mail een bevestiging van de gewijzigde contactgegevens:\
-
+Is er ook een e-mailadres ingevuld? Dan krijgt de melder per e-mail een bevestiging van de gewijzigde contactgegevens:<br>
 
 <figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,13 +70,8 @@ Zodra de melding is geaccepteerd blijft alleen het nieuwe e-mailadres zichtbaar.
 \
 Het is daarnaast mogelijk om de verificatie te annuleren. Er wordt dan gevraagd naar de reden van annuleren:
 
-<div align="left">
+<div align="left"><figure><img src="../../.gitbook/assets/image (259).png" alt="" width="398"><figcaption></figcaption></figure></div>
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt="" width="398"><figcaption></figcaption></figure>
-
-</div>
-
-De reden wordt meegenomen in de logging:\
-
+De reden wordt meegenomen in de logging:<br>
 
 <figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>

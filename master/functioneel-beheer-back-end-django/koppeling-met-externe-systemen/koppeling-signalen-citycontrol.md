@@ -68,20 +68,6 @@ Klik op Bevestigen om de zaak in CityControl af te handelen.\
 Nadat de zaak is afgehandeld wordt er een waarschuwing weergegeven dat wijzigingen niet meer aangebracht kunnen worden:\
 ![](<../../../.gitbook/assets/image (227).png>)
 
-## Signalen: Melding afhandelen
-
-Een zaak die in CityControl is afgehandeld zorgt ervoor dat de melding in Signalen de status “Extern: afgehandeld” ontvangt. De melding is dan nog **niet** afgehandeld in Signalen.&#x20;
-
-In Signalen kun je de melding afhandelen door de status te wijzigen van “Extern: afgehandeld” naar “Afgehandeld”:
-
-<figure><img src="../../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
 ## Signalen: Heropenen melding
 
 Een melding die in CityControl is afgesloten kan in Signalen middels de knop “THOR” opnieuw naar CityControl gestuurd worden. Bijvoorbeeld wanneer de melding/zaak nog niet goed is opgelost of er opnieuw naar gekeken moet worden.
@@ -96,9 +82,19 @@ Onder Beheer > Zaaktypen is in CityControl het een en ander in te richten. Zo ka
 
 <figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
-Het tabblad “Resultaten” geeft de keuzeopties weer waaruit een handhaver kan kiezen wanneer de zaak wordt afgehandeld. Met behulp van het plusje aan de rechterkant kunnen er meer opties worden toegevoegd:
 
-<figure><img src="../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+
+Het tabblad “Resultaten” geeft de keuzeopties weer waaruit een handhaver kan kiezen wanneer de zaak wordt afgehandeld. Bij resultaten moeten deze drie resulaten aangemaakt worden. LET OP: met kleine letters! Als je hoofdletter gebruikt werkt de koppeling niet!
+
+<figure><img src="../../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+
+_afgerond_ = melding wordt automatisch in Signalen afgehandeld.
+
+_later afhandelen_ = melding komt met openstaande status terug in Signalen en kan met een (gepersonaliseerde) tekst worden afgehandeld.
+
+_niet voor handhaving_ = Melding komt met openstaande status terug in Signalen en moet naar een andere afdeling/team worden doorgezet
+
+
 
 Het tabblad “Activiteiten” laat je activiteiten aan een zaak toevoegen die de handhaver kan doorlopen:
 
@@ -106,6 +102,4 @@ Het tabblad “Activiteiten” laat je activiteiten aan een zaak toevoegen die d
 
 Goed om te weten:\
 \- Zaken worden in CityControl niet op een kaartweergave getoond\
-\- Het is niet mogelijk om tussentijdse statuswijzigingen in CityControl naar Signalen te versturen\
-\
-De Signalen samenwerking is samen met Sigmax bezig om deze koppeling door te ontwikkelen.
+\- Het is niet mogelijk om tussentijdse statuswijzigingen in CityControl naar Signalen te versturen

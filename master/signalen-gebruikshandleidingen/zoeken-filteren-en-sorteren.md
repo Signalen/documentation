@@ -117,8 +117,7 @@ Klik op "Opslaan en filter" om je tweede werkvoorraad te zien:\
 Werk je voor meerdere afdelingen? Maak dan meerdere filters aan, 1 voor iedere afdeling.\
 Pak de bovenstaande instellingen en voeg onderin je een afdeling toe:\
 \
-![](<../../.gitbook/assets/image (44).png>)\
-
+![](<../../.gitbook/assets/image (44).png>)<br>
 
 <table data-header-hidden><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td><strong>!</strong></td><td><mark style="background-color:green;">Vervang je vaak een collega? Maak dan een filter aan met "Toegewezen aan" met het mailadres van je collega.</mark></td></tr></tbody></table>
 

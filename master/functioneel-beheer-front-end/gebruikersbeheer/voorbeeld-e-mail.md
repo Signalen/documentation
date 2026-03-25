@@ -39,8 +39,7 @@ Mocht je vragen hebben naar aanleiding van dit bericht dan vernemen wij dat graa
 Met vriendelijke groet,
 
 Het MOR-team\
-\
-
+<br>
 
 ## **Standaard e-mail ACCEPTATIEOMGEVING**
 

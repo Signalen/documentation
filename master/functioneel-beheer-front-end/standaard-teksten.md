@@ -18,8 +18,7 @@ icon: file-word
 
 6\)      Vul de titel en het tekstveld in. Vink \<Actief> aan als de tekst direct geactiveerd dient te worden.
 
-7\)      Je kunt met behulp van markdown language de opmaak aanpassen.\
-
+7\)      Je kunt met behulp van markdown language de opmaak aanpassen.<br>
 
 Zie [https://commonmark.org/help/](https://commonmark.org/help/) voor een korte tutorial en opmaak.
 
@@ -50,8 +49,7 @@ Binnen Signalen bestaat de mogelijkheid om de standaardantwoorden te koppelen aa
 In het overzicht dat opent is links, in de kolom \<Filter op status> te zien hoeveel standaard teksten er zijn ingericht per status. Door een status te selecteren, zal rechts in beeld de ingestelde tekst(en) per subcategorie worden getoond.
 
 \
-![](<../../.gitbook/assets/image (80).png>)\
-
+![](<../../.gitbook/assets/image (80).png>)<br>
 
 Daarnaast is het mogelijk om op standaard teksten te zoeken. Vul hiervoor een woord in de zoekbalk en druk op Enter of klik op zoek-icoon.
 
@@ -65,33 +63,17 @@ Klik links onderin op “Opslaan” om de wijzigingen door te voeren
 
 De volgorde waarin de standaard teksten, bij het wijzigen van de status, getoond worden is aan te passen.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
 Om de volgorde aan te passen, ga naar Instellingen > Subcategorieën en kies de subcategorie waarvan je de volgorde wilt wijzigen. Scroll naar onderen tot je bij "Standaardteksten volgorde" komt:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure></div>
 
 Selecteer de status waarvan je de volgorde wilt wijzigen, bijvoorbeeld Afgehandeld. De standaardteksten ingesteld bij deze subcategorie en deze status worden getoond. Met behulp van de pijltjes aan de rechterkant kun je de volgorde instellen.\
 Klik op Opslaan om de volgorde op te slaan.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
 De nieuwe volgorde wordt daarna getoond bij het wijzigen van de status:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure></div>

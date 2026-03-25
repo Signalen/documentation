@@ -4,8 +4,7 @@ icon: arrow-right-to-bracket
 
 # Inloggen
 
-Inloggen op Signalen kan via het webadres zoals die is bepaald door je eigen organisatie. Meestal is dat meldingen.\[gemeentenaam].nl/login. Het inloggen in de backoffice/Django werkt hetzelfde; die URL is meestal api.meldingen.\[gemeentenaam].nl/signals/admin.\
-
+Inloggen op Signalen kan via het webadres zoals die is bepaald door je eigen organisatie. Meestal is dat meldingen.\[gemeentenaam].nl/login. Het inloggen in de backoffice/Django werkt hetzelfde; die URL is meestal api.meldingen.\[gemeentenaam].nl/signals/admin.<br>
 
 Na het klikken op de knop Inloggen,
 
@@ -19,4 +18,4 @@ In bovenstaand voorbeeld:\
 \- Delta10 is een hosting en support partij\
 \- Gemeente 's-Hertogenbosch is de inlog via EntraID. Na het klikken op deze balk is de medewerker direct ingelogd\
 \- GitHub account wordt gebruikt voor testen en ontwikkelaars\
-\- VanderValk+deGroot is een aannemer met EntraID koppeling die meldingen direct in Signalen behandeld en afhandeld. Iedere partij met EntraID kan op deze manier direct toegang verkrijgen tot Signalen en is één van de mogelijke koppelingen.\
+\- VanderValk+deGroot is een aannemer met EntraID koppeling die meldingen direct in Signalen behandeld en afhandeld. Iedere partij met EntraID kan op deze manier direct toegang verkrijgen tot Signalen en is één van de mogelijke koppelingen.<br>

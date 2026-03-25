@@ -4,11 +4,7 @@ icon: arrow-up-right-from-square
 
 # Knoppen Delen, THOR, Extern en PDF
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Delen
 
@@ -41,21 +37,13 @@ Klik op "Opslaan" om de Hoofd- en Deelmelding(en) op te slaan.\
 \
 Stel eventueel de bijbehorende filters in:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Filter: Soort
 
 Met het filter op "Soort" kun je een een selectie maken op Standaard meldingen, Hoofdmeldingen en/of Deelmeldingen.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Filter: Verantwoordelijke afdeling
 
@@ -65,8 +53,7 @@ De filter "Verantwoordelijke afdeling" gebruik je in combinatie met een Afdeling
 
 ### Filter: Hoofdmelding MET wijziging in deelmelding
 
-Filter "Hoofdmelding met wijziging in deelmelding" laat een lijst zien van Hoofdmeldingen waarbij er in de onderliggende Deelmelding een wijziging is geweest. De verantwoordelijke afdeling kan aan de hand van de actie in de Deelmelding bepalen of er een bericht naar de melder moet of dat de Hoofdmelding kan worden afgehandeld:\
-
+Filter "Hoofdmelding met wijziging in deelmelding" laat een lijst zien van Hoofdmeldingen waarbij er in de onderliggende Deelmelding een wijziging is geweest. De verantwoordelijke afdeling kan aan de hand van de actie in de Deelmelding bepalen of er een bericht naar de melder moet of dat de Hoofdmelding kan worden afgehandeld:<br>
 
 <figure><img src="../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
@@ -116,11 +103,7 @@ Bij sommige meldingen wil je graag dat een externe partij een actie uitvoert of 
 \
 Klik op de knop "Extern" om een actie uit te zetten naar een externe partij. Vul het e-mailadres in en typ de informatievraag of de actie in het toelichtingenveld:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure></div>
 
 Je krijgt een e-mail preview (voorbeeld) te zien van de volledige e-mail die verstuurd zal worden naar de externe partij. Controleer de e-mail en klik op Verstuur.
 
@@ -133,21 +116,13 @@ De status van de melding wijzigt naar "Doorgezet naar extern"\
 
 De externe partij kan nu op het linkje klikken in de e-mail. Er wordt dan meer informatie getoond over de melding. Zoals je ziet krijgt de externe partij de meldingstekst van de melder NIET te zien. Hier is bewust voor gekozen omdat een melder soms contactgegevens achter laat of een heel verhaalt typt terwijl maar een klein deel van belang is voor de externe partij.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure></div>
 
 Wanneer de externe partij de actie heeft uitgevoerd kan er een reactie worden teruggestuurd. Daarvoor moet de externe opnieuw op de link in de bijlage klikken en kan een toelichting geven en eventueel foto's toevoegen. Klik op "Verstuur" om de actie af te sluiten. De link is daarna ongeldig en kan niet meer worden gebruikt.\
 \
 De externe partij krijgt een bevestigingsmail zodra de actie is afgerond.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure></div>
 
 De melding in Signalen komt op "Extern: Verzoek tot afhandeling" te staan\
 ![](<../../.gitbook/assets/image (164).png>)\
@@ -159,8 +134,7 @@ De melding komt altijd op de status "Extern: Verzoek tot afhandeling" te staan. 
 
 <table data-header-hidden><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td><strong>!</strong></td><td><mark style="background-color:green;">Deze functionaliteit kun je ook intern gebruiken. Bijvoorbeeld om een collega een vraag te stellen die geen gebruik maakt van Signalen. Je typt dan het e-mailadres in van je collega en die kan de vraag beantwoorden. Op die manier blijven alle acties en informatie in Signalen bij elkaar staan.</mark></td></tr></tbody></table>
 
-\
-
+<br>
 
 ## PDF
 

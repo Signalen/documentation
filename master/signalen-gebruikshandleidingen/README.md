@@ -27,4 +27,4 @@ In deze handleiding wordt in sommige gevallen extra aandacht gevraagd
 
 <table data-header-hidden><thead><tr><th width="161"> !</th><th>Waarschuwing: belangrijk punt van aandacht.</th></tr></thead><tbody><tr><td> <strong>!</strong></td><td>Waarschuwing: belangrijk punt van aandacht.</td></tr><tr><td> ?</td><td>Tip: aanvullende instructie en/of toelichting</td></tr></tbody></table>
 
-\
+<br>

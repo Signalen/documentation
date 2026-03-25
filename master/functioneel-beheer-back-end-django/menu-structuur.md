@@ -61,8 +61,7 @@ Intervals
 Periodic tasks
 
 Solar events\
-\
-
+<br>
 
 [QUESTIONNAIRES](questionnaires.md)
 
@@ -75,8 +74,7 @@ Questionnaires
 Questions
 
 Sessions\
-\
-
+<br>
 
 [SIGNALS](signals-inrichting-signalen-technisch-beheer.md)
 

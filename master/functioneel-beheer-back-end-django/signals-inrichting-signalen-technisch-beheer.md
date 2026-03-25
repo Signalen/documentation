@@ -258,8 +258,7 @@ Het validators attribuut op de metawaarde is mogelijk op alle invoertypen, waarb
 \
 Met behulp van een validator kan een **harde stop** worden ingesteld. De harde stop zit in de Signalen frontend GUI en schakelt in feite de knop \<volgende> voor sommige aanvullende vragen uit. Dit kan middels een Validator worden ingesteld bij subcategorieën die niet door de gemeente kunnen worden behandeld. Bijvoorbeeld meldingen voor de dierenambulance of milieuklachtencentrale.&#x20;
 
-&#x20;{"type": "alert", "value": "Neem contact op met Dierenambulance (24 uur per dag bereikbaar), via telefoonnummer 000 - 00 00 00 of via de website. U kunt dit formulier niet meer verder invullen.", "ifOneOf": {"Voorbeeld\_RadioInput": \["3"]}, <mark style="background-color:yellow;">"validators": \["isBlocking"]</mark>}\
-
+&#x20;{"type": "alert", "value": "Neem contact op met Dierenambulance (24 uur per dag bereikbaar), via telefoonnummer 000 - 00 00 00 of via de website. U kunt dit formulier niet meer verder invullen.", "ifOneOf": {"Voorbeeld\_RadioInput": \["3"]}, <mark style="background-color:yellow;">"validators": \["isBlocking"]</mark>}<br>
 
 <table data-header-hidden><thead><tr><th width="233"></th><th></th></tr></thead><tbody><tr><td><strong>Field type</strong></td><td><strong>Omschrijving</strong></td></tr><tr><td><em>PlainText</em></td><td>Mogelijke waarde:isBlocking. Het formulier wordt ongeldig wanneer een platte tekst met validator isBlocking wordt weergegeven.</td></tr><tr><td><em>Others except PlainText</em></td><td>Mogelijke waarden:required.</td></tr><tr><td><em>TextInput</em></td><td>Mogelijke waarden:email, max, maxLength, min, minLength, pattern, required,requiredTrue.</td></tr><tr><td><em>TextareaInput</em></td><td>Mogelijke waarden:email, max, maxLength, min, minLength, pattern, required,requiredTrue.</td></tr></tbody></table>
 

@@ -20,8 +20,7 @@ Dank voor uw melding. Fijn dat u zich betrokken voelt bij de stad.
  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% raw %}
-{% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
 
 **Wat doen we met uw melding?**  
 {{ handling_message }}
@@ -59,7 +58,6 @@ Wat is uw e-mailadres?
 {% else %}
 Nee, ik geef de gemeente geen toestemming om mijn melding door te sturen naar andere organisaties als de melding niet voor de gemeente is bestemd.
 {% endif %}
-{% endraw %}
 ```
 
 ### Send mail signal handled
@@ -116,9 +114,7 @@ Op {{ created_at|date:"j F Y" }} om {{ created_at|date:"H.i" }} uur hebt u een m
 **Gegevens van uw melding**  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% raw %}
-{% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %}  
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}  
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08.00 tot 18.00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -144,7 +140,6 @@ U bent niet tevreden over wat wij met uw melding hebben gedaan. Dat spijt ons. W
 
 **U liet ons het volgende weten**  
 Bent u tevreden met de afhandeling van uw melding?  
-{% raw %}
 {% if feedback_is_satisfied %} *Ja, ik ben tevreden met de afhandeling van mijn melding* {% else%} *Nee, Ik ben niet tevreden met de afhandeling van mijn melding* {% endif %}  
 
 {% if feedback_is_satisfied %}**Waarom bent u tevreden?**{% else %}**Waarom bent u niet tevreden?** {% endif %}  {% if feedback_text %}  *{{ feedback_text }}*  
@@ -161,8 +156,7 @@ Bent u tevreden met de afhandeling van uw melding?
 **Gegevens van uw melding**  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %} 
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %} 
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08.00 tot 18.00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -192,9 +186,7 @@ Op {{ created_at|date:"j F Y" }} om {{ created_at|date:"H.i" }} uur hebt u een m
 **Gegevens van uw melding**  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% raw %}
-{% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %}  
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}  
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08:00 tot 18:00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -224,9 +216,7 @@ Op {{ created_at|date:"j F Y" }} om {{ created_at|date:"H.i" }} uur hebt u een m
 **Gegevens van uw melding**  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% raw %}
-{% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %}  
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}  
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08:00 tot 18:00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -248,7 +238,6 @@ Geachte melder,
 Bedankt voor uw reactie. U hoort binnen 3 werkdagen weer bericht van ons.  
 
 **Bent u tevreden met de afhandeling van uw melding?**  
-{% raw %}
 {% if feedback_is_satisfied %} Ja, ik ben tevreden met de afhandeling van mijn melding {% else%} Nee, Ik ben niet tevreden met de afhandeling van mijn melding {% endif %}  
 
 {% if feedback_is_satisfied %}**Waarom bent u tevreden?** {% else %} **Waarom bent u niet tevreden?** {% endif %}  
@@ -266,8 +255,7 @@ Bedankt voor uw reactie. U hoort binnen 3 werkdagen weer bericht van ons.
 **Gegevens van uw melding**  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %}  
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}  
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08.00 tot 18.00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -367,7 +355,6 @@ Geachte melder,
 Bedankt voor uw reactie. U hoort binnen 3 werkdagen weer bericht van ons.  
 
 **Bent u tevreden met de afhandeling van uw melding?**  
-{% raw %}
 {% if feedback_is_satisfied %} Ja, ik ben tevreden met de afhandeling van mijn melding {% else%} Nee, Ik ben niet tevreden met de afhandeling van mijn melding {% endif %}  
 
 {% if feedback_is_satisfied %}**Waarom bent u tevreden?** {% else %} **Waarom bent u niet tevreden?** {% endif %}  
@@ -385,8 +372,7 @@ Bedankt voor uw reactie. U hoort binnen 3 werkdagen weer bericht van ons.
 **Gegevens van uw melding**  
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
-Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %}  
+Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}  
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08.00 tot 18.00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -411,7 +397,6 @@ U bent niet tevreden over wat wij met uw melding hebben gedaan. Dat spijt ons. W
 
 **U liet ons het volgende weten**  
 Bent u tevreden met de afhandeling van uw melding?  
-{% raw %}
 {% if feedback_is_satisfied %} Ja, ik ben tevreden met de afhandeling van mijn melding {% else %} Nee, ik ben niet tevreden met de afhandeling van mijn melding {% endif %}
 
 
@@ -427,7 +412,6 @@ Bent u tevreden met de afhandeling van uw melding?
 Nummer: {{ formatted_signal_id }}  
 Gemeld op: {{ created_at|date:"j F Y, H.i" }} uur  
 Plaats: {% if address %}{{ address|format_address:"O hlT, P W" }}{% else %}Locatie is gepind op de kaart{% endif %}
-{% endraw %}
 
 **Meer weten?**  
 Voor vragen over uw melding kunt u bellen met telefoonnummer, maandag tot en met vrijdag van 08:00 tot 18:00. Geef dan ook het nummer van uw melding door: {{ formatted_signal_id }}.
@@ -443,14 +427,12 @@ Met vriendelijke groet,
 
 ```
 Titel:
-Melding {{ formatted_signal_id }} is toegewezen aan {% raw %}
-{% if assigned_to_user %}jou{% else %}{{ assigned_to_department }}{% endif %}
+Melding {{ formatted_signal_id }} is toegewezen aan {% if assigned_to_user %}jou{% else %}{{ assigned_to_department }}{% endif %}
 
 Bericht:
 Beste {{ recipient_full_name }},
 
-De volgende melding is aan {% if assigned_to_user %}jou{% else %}{{ assigned_to_department }}{% endif %}
-{% endraw %} toegewezen:
+De volgende melding is aan {% if assigned_to_user %}jou{% else %}{{ assigned_to_department }}{% endif %} toegewezen:
 
 - Nummer: {{ formatted_signal_id }}
 - Subcategorie: {{ sub_category_public_name }}
@@ -506,9 +488,7 @@ U liet ons het volgende weten:
 Gegevens van de melding
 - Nummer: {{ formatted_signal_id }}
 - Gemeld op: {{ created_at|date:"DATETIME_FORMAT" }}
-- Plaats: {% raw %}
-{% if location %}{{ location|format_address:"O hlT, P W" }}{% endif %}
-{% endraw %}
+- Plaats: {% if location %}{{ location|format_address:"O hlT, P W" }}{% endif %}
 
 
 Met vriendelijke groet,

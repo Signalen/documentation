@@ -72,4 +72,4 @@ Tekstueel overlappende categorieën samenvoegen​\
 \* Confusion matrix bekijken​ (zie tabel hierboven)\
 \* Gebruik niet alleen categorieën, maar ook aanvullende vragen om te routeren
 
-\
+<br>

@@ -8,8 +8,7 @@ Een nieuwe melding komt altijd binnen op de status Gemeld:\
 ![](<../../.gitbook/assets/image (203).png>)\
 Wanneer er routeerregels zijn ingesteld dan komt de melding automatisch op de juiste afdeling of bij de juiste behandelaar terecht:\
 ![](<../../.gitbook/assets/image (204).png>)\
-In de Geschiedenis is te zien of het een automatische of handmatige routering betreft:\
-
+In de Geschiedenis is te zien of het een automatische of handmatige routering betreft:<br>
 
 <figure><img src="../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
@@ -46,25 +45,16 @@ Onder de status verschijnt een scherm waar je de nieuwe status kunt kiezen en op
 \
 Selecteer de gewenste status, bijvoorbeeld "In behandeling" en vink "Stuur dit bericht aan de melder" aan wanneer je de melder op de hoogte wilt brengen. Typ een toelichting wat je met de melding gaat doen. \
 \
-Eventueel kun je klikken op "Standaardtekst" waarmee je een vooraf bedachte tekst kunt kiezen. Dan hoe je niet/minder te typen:\
+Eventueel kun je klikken op "Standaardtekst" waarmee je een vooraf bedachte tekst kunt kiezen. Dan hoe je niet/minder te typen:<br>
 
-
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (210).png" alt=""><figcaption></figcaption></figure></div>
 
 Klik op "Gebruik deze tekst" om de tekst automatisch in het toelichtingenveld te laten verschijnen. Je kunt er tekst bij typen of weghalen:\
 ![](<../../.gitbook/assets/image (211).png>)\
 \
 Klik op Verstuur om de Status van de melding te wijzigen en de toelichting op te slaan. Heb je ervoor gekozen om een bericht aan de melder te versturen? Dan krijg je nu een e-mail preview te zien:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure></div>
 
 De e-mail preview laat de volledige e-mail zien die naar de melder zal worden verstuurd. Controleer of de mail goed is en klik op Verstuur. Of klik om Wijzig om het bericht aan te passen.\
 \
@@ -110,22 +100,14 @@ Let op! Het gaat om communicatie met een inwoner. Dus let goed op wat en hoe je 
 
 <table data-header-hidden><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td><strong>!</strong></td><td><mark style="background-color:green;">Controleer op moeilijke woorden. Bij twijfel kun je kijken of een woord B1 is via</mark> <a href="https://www.ishetb1.nl/"><mark style="background-color:green;">Is het b1?</mark></a></td></tr></tbody></table>
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure></div>
 
 De melder ontvangt een e-mail met daarin een link naar de melding.\
 ![](<../../.gitbook/assets/image (192).png>)
 
 Na het klikken op de link kan de melder aanvullende informatie toevoegen in de vorm van getypte tekst of een foto.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure></div>
 
 <table data-header-hidden><thead><tr><th width="40"></th><th></th></tr></thead><tbody><tr><td><strong>!</strong></td><td><mark style="background-color:green;">De link naar de URL is 5 dagen geldig (instelbaar). Daarna wijzigt de status automatisch naar "Reactie ontvangen" en kan de melder geen reactie meer geven.</mark></td></tr><tr><td><strong>!</strong></td><td><mark style="background-color:green;">Zodra de melder een antwoord heeft gegeven dan kunnen de vragen niet opnieuw worden ingevuld. De melder krijgt dan, na het aanklikken van de verlopen link, het volgende scherm te zien:</mark><br><img src="../../.gitbook/assets/image (194).png" alt=""></td></tr><tr><td><strong>!</strong></td><td><mark style="background-color:green;">De link verloopt ook wanneer de status van de melding binnen de 5 dagen worden gewijzigd. Er wordt in dat geval een waarschuwing getoond:</mark><br><img src="../../.gitbook/assets/image (195).png" alt=""></td></tr></tbody></table>
 
@@ -143,27 +125,18 @@ Nu er een reactie ontvangen is kan de melding op reguliere wijze worden behandel
 
 Wanneer de behandeling van de melding klaar is dan kan de melding worden afgehandeld. Wijzig hiervoor de status van de melding naar "Afgehandeld". Wanneer een melder een e-mailadres heeft opgegeven zal er altijd een bericht worden verstuurd:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (215).png" alt="" width="315"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (215).png" alt="" width="315"><figcaption></figcaption></figure></div>
 
 Selecteer een standaard tekst of typ wat je met de melding hebt gedaan. Klik op Verstuur om een e-mail preview van de afhandelmail te zien en klik nogmaals op Verstuurd om de status te wijzigen en de melder te mailen.\
 \
 In de afhandelmail zit een groen en rode smiley waarmee de melder aan kan geven of deze tevreden of ontevreden is over de afhandeling van de melding:
 
-![](<../../.gitbook/assets/image (219).png>)\
-
+![](<../../.gitbook/assets/image (219).png>)<br>
 
 Optioneel: Kan een ontevreden reactie de status van de melding op "Verzoek tot Heropenen" zetten. De behandelaar kan dan kiezen om de melding opnieuw te behandelen of direct af te handelen.\
 \
 Optioneel: Kun je terug zien of de melder tevreden of ontevreden was over de afhandeling van een melding. Dit wordt bijgehouden op basis van het opgegeven e-mailadres:
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure></div>
 
 Zie "[Bestand en notitie toevoegen](bestand-en-notitie-toevoegen.md)" en "[Knoppen Delen, THOR, Extern en PDF](knoppen-delen-thor-extern-en-pdf.md)" voor meer opties bij het behandelen van een melding.
