@@ -92,7 +92,7 @@ _afgerond_ = melding wordt automatisch in Signalen afgehandeld.
 
 _later afhandelen_ = melding komt met openstaande status terug in Signalen en kan met een (gepersonaliseerde) tekst worden afgehandeld.
 
-_niet voor handhaving_ = Melding komt met openstaande status terug in Signalen en moet naar een andere afdeling/team worden doorgezet
+_niet voor handhaving_ = melding komt met openstaande status terug in Signalen en moet naar een andere afdeling/team worden doorgezet
 
 
 
