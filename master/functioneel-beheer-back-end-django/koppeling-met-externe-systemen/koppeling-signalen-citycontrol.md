@@ -87,7 +87,9 @@ Onder Beheer > Zaaktypen is in CityControl het een en ander in te richten. Zo ka
 Het tabblad “Resultaten” geeft de keuzeopties weer waaruit een handhaver kan kiezen wanneer de zaak wordt afgehandeld. De resultaten kun je naar wens opvoeren.\
 \
 **Automatisch afhandelen meldingen in Signalen**\
-Voor het automatisch afhandelen van de melding in Signalen kun je de onderstaande drie resultaten aanmaken. Met het resultaat "afgerond" wordt de zaak in CityControl afgerond én de melding in Signalen. LET OP: met kleine letters! Als je hoofdletter gebruikt werkt de koppeling niet!
+Voor het automatisch afhandelen van de melding in Signalen kun je de onderstaande drie resultaten aanmaken. Met het resultaat "afgerond" wordt de zaak in CityControl afgerond én de melding in Signalen.&#x20;
+
+LET OP: maak de resultaten aan met kleine letters! Als je hoofdletters gebruikt werkt de koppeling niet!
 
 <figure><img src="../../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
