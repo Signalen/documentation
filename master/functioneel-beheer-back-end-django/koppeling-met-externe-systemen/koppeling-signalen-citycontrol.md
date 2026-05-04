@@ -6,6 +6,8 @@ icon: user-police
 
 Om de koppeling te kunnen gebruiken dient de gebruiker in Signalen het recht “Doorsturen van een melding (THOR)” te hebben.
 
+{% file src="../../../.gitbook/assets/Demo koppeling CityControl - Signalen 4-5-2026 Amy.mp4" %}
+
 Dit kun je instellen onder Instellingen > Rollen. Maak een nieuwe rol aan of wijs dit recht toe aan een bestaande rol:
 
 <figure><img src="../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
