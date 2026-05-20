@@ -12,16 +12,14 @@ De tekst van de melding wordt opgedeeld in losse woorden. Van elk woord uit een 
 
 Het classificatiemodel wordt getraind op basis van CSV bestand met de volgende kolommen:
 
-| Text            | Main                              | Middle            | Sub             |
-| --------------- | --------------------------------- | ----------------- | --------------- |
-| Meldingstekst 1 | Wel invullen, wordt niet gebruikt | \[Hoofdcategorie] | \[Subcategorie] |
-| Meldingstekst 2 | Nvt                               | \[Hoofdcategorie] | \[Subcategorie] |
-| Meldingstekst 3 | Nvt                               | \[Hoofdcategorie] | \[Subcategorie] |
+| Main              | Sub             | Text            |
+| ----------------- | --------------- | --------------- |
+| \[Hoofdcategorie] | \[Subcategorie] | Meldingstekst 1 |
+| \[Hoofdcategorie] | \[Subcategorie] | Meldingstekst 2 |
+| \[Hoofdcategorie] | \[Subcategorie] | Meldingstekst 3 |
 
-De kolom **Text** bevat de meldingstekst van de melder en kan over alles gaan.\
-De kolom **Main** is nodig om de machine learning te laten werken maar doet feitelijk niets. Vul een dummy-waarde in zoals Nvt of Test\
-De kolom **Middle** bevat de hoofdcategorie\
-De kolom **Sub** bevat de subcategorie
+De kolom **Main** bevat de hoofdcategorie\
+De kolom **Sub** bevat de subcategorie                                                                                                         De kolom **Text** bevat de meldingstekst van de melder en kan over alles gaan.<br>
 
 <mark style="background-color:green;">Tip! Maak de koppeling via kolomnaam ID (signals.csv) en \_signal\_id (categories.csv). Ontdubbel op basis van “updated\_at” datum in (categories.csv)​. Doe dit niet in Excel maar in een krachtigere tool zoals PowerBI of Cognos. Maak er eventueel een standaard rapportage voor een volgende keer​.</mark>
 
