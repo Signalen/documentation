@@ -64,9 +64,9 @@ Na het trainen wordt er automatisch een rapport gegenereerd met een confusion ma
 ### Hoe krijg je het model beter?
 
 Meer maar vooral betere trainingsdata invoeren​. Controleer op correctheid, liefst vooraf​.\
-\* Correctheid = Staat de melding op de juiste categorie?​
+\* Correctheid = staat de melding op de juiste categorie?​
 
-Tekstueel overlappende categorieën samenvoegen​\
+Tekstueel overlappende categorieën samenvoegen​.\
 \* Confusion matrix bekijken​ (zie tabel hierboven)\
 \* Gebruik niet alleen categorieën, maar ook aanvullende vragen om te routeren
 
