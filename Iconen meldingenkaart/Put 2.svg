@@ -1,9 +1,16 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg height="800px" width="800px" version="1.1" id="_x32_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-51.2 -51.2 614.40 614.40" xml:space="preserve" fill="#000000">
-<g id="SVGRepo_bgCarrier" stroke-width="0">
-<rect x="-51.2" y="-51.2" width="614.40" height="614.40" rx="307.2" fill="#004699" strokewidth="0"/>
-</g>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:#ffffff;} </style> <g> <path class="st0" d="M512,220.452l-28.449-28.449l-35.553,35.562L284.45,64.007l35.544-35.553l-28.44-28.45L256,35.567 L220.448,0.004l-28.441,28.45l35.543,35.553L64.002,227.565l-35.553-35.562L0,220.452l35.562,35.553L0,291.557l28.449,28.45 l35.553-35.552L227.55,447.993l-35.543,35.563l28.441,28.44L256,476.443l35.553,35.553l28.44-28.44l-35.544-35.563l163.548-163.538 l35.553,35.552L512,291.557l-35.562-35.552L512,220.452z M256,419.562L92.442,256.005L256,92.447l163.557,163.558L256,419.562z"/> </g> </g>
-</svg>
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#ffffff" height="65px" width="65px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-102.4 -102.4 716.80 716.80" xml:space="preserve" stroke="#ffffff">
+
+<g id="SVGRepo_bgCarrier" stroke-width="0">
+
+<rect x="-51.2" y="-51.2" width="614.40" height="614.40" rx="307.2" fill="#004699" strokewidth="0"/>
+
+</g>
+
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g id="SVGRepo_iconCarrier"> <style type="text/css"> .st0{fill:#ffffff;} </style> <g> <path class="st0" d="M512,220.452l-28.449-28.449l-35.553,35.562L284.45,64.007l35.544-35.553l-28.44-28.45L256,35.567 L220.448,0.004l-28.441,28.45l35.543,35.553L64.002,227.565l-35.553-35.562L0,220.452l35.562,35.553L0,291.557l28.449,28.45 l35.553-35.552L227.55,447.993l-35.543,35.563l28.441,28.44L256,476.443l35.553,35.553l28.44-28.44l-35.544-35.563l163.548-163.538 l35.553,35.552L512,291.557l-35.562-35.552L512,220.452z M256,419.562L92.442,256.005L256,92.447l163.557,163.558L256,419.562z"/> </g> </g>
+
+</svg>
