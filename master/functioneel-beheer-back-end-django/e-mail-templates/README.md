@@ -22,51 +22,39 @@ Wanneer je een e-mail template aanmaakt of wijzigt vind je onderaan de beschikba
 
 </div>
 
-Er zijn verschillende e-mail types die verstuurd kunnen worden.
+Er zijn verschillende e-mail types die verstuurd kunnen worden. Per e-mailtype staat benoemd wanneer de e-mail wordt verstuurd en naar wie de e-mail wordt verstuurd.
 
-1\.  Send mail to verify the email address of a reporter
+1\. Send mail to verify the email address of a reporter: wordt verstuurd naar het nieuwe e-mailadres van de melder wanneer een wijziging van contactgegevens wordt aangevraagd en dit e-mailadres geverifieerd moet worden.
 
-2\.  Sent mail to current reporter that a change of contact information is requested
+2\. Sent mail to current reporter that a change of contact information is requested: wordt verstuurd naar het huidige e-mailadres van de melder wanneer een wijziging van contactgegevens wordt aangevraagd.
 
-3\.  Send mail to new reporter stating that contact information was successfully updated
+3\. Send mail to new reporter stating that contact information was successfully updated: wordt verstuurd naar de nieuwe melder nadat het nieuwe e-mailadres is geverifieerd en de contactgegevens succesvol zijn bijgewerkt.
 
-4\.  Send mail when a My Signals token has been requested   &#x20;
+4\. Send mail when a My Signals token has been requested: wordt verstuurd aan de melder wanneer een inlog voor de "mijn meldingen" omgeving is aangevraagd.
 
-5\.  Send mail signal assigned
+5\. Send mail signal assigned: wordt verstuurd aan een behandelaar wanneer een melding wordt toegewezen aan een behandelaar of afdeling. Bij toewijzing aan een afdeling ontvangen alleen actieve behandelaren met afdelingsnotificaties deze e-mail. Bij toewijzing aan een behandelaar wordt de e-mail alleen verstuurd als gebruikersnotificaties voor deze behandelaar aan staan.
 
-6\. Send mail signal created
+6\. Send mail signal created: wordt verstuurd aan de melder wanneer een melding succesvol is aangemaakt met status “Gemeld”.
 
-7\.  Send mail signal forwarded to external
+7\. Send mail signal forwarded to external: wordt verstuurd aan een externe partij wanneer een melding wordt doorgezet naar een externe partij. De e-mail gaat naar het opgegeven externe e-mailadres.
 
-8\.  Send mail forwarded to external reaction received
+8\. Send mail forwarded to external reaction received: wordt verstuurd aan een externe partij wanneer een externe partij een reactie heeft gegeven op een naar hun doorgestuurde melding.
 
-9\.  Send mail signal handled
+9\. Send mail signal handled: wordt verstuurd aan de melder wanneer een melding de status “Afgehandeld” krijgt, behalve wanneer de vorige status “Verzoek tot heropenen” was.
 
-10\.  Send mail signal reopened
+10\. Send mail signal reopened: wordt verstuurd aan de melder wanneer een melding de status “Heropend” krijgt.
 
-11\.  Send mail signal scheduled
+11\. Send mail signal scheduled: wordt verstuurd aan de melder wanneer een melding de status “Ingepland” krijgt en is aangegeven dat hierover een e-mail verstuurd moet worden.
 
-12\.  Send mail optional
+12\. Send mail optional: wordt verstuurd aan de melder wanneer optioneel een status update naar de melder wordt gestuurd bij de statussen “Gemeld”, “In afwachting van behandeling”, “In behandeling”, “Extern: verzoek tot afhandeling”, “Geannuleerd” of “Ingepland”.
 
-13\.  Send mail signal reaction requested
+13\. Send mail signal reaction requested: wordt verstuurd aan de melder wanneer een melding de status “Reactie gevraagd” krijgt.
 
-14\.  Send mail signal reaction requested received
+14\. Send mail signal reaction requested received: wordt verstuurd aan de melder wanneer zijn reactie op het formulier voor status "Reactie gevraagd" ontvangen is.
 
-15\.  Send mail signal negative KTO contact
+15\. Send mail signal negative KTO contact: wordt verstuurd aan een melder wanneer een melding de status “Afgehandeld” krijgt nadat de vorige status “Verzoek tot heropenen” was, en de laatste feedback contact toestaat. Deze mail wordt alleen verstuurd als de FEATURE FLAG `REPORTER_MAIL_HANDLED_NEGATIVE_CONTACT_ENABLED` aanstaat, deze staat standaard uit.
 
-16\.  Send mail signal feedback received
-
-&#x20;
-
-·  Optional > Bij status “In afwachting van behandeling”, “In behandeling”, “Extern: verzoek tot afhandeling”, “Geannuleerd” waar je optioneel een toelichting naar melder kunt sturen
-
-·  Created > Bevestigingsmail bij status “Gemeld”
-
-·  Handled > afhandelingsmail bij status “Afgehandeld”
-
-·  Scheduled > bij status “Ingepland”
-
-·  Reopend > bij status “Heropend”
+16\. Send mail signal feedback received: wordt verstuurd aan een melder nadat de melder feedback heeft ingestuurd, als contact met de melder is toegestaan. Deze mail wordt alleen verstuurd als de FEATURE FLAG `SYSTEM_MAIL_FEEDBACK_RECEIVED_ENABLED` aanstaat, deze staat standaard uit.
 
 &#x20;
 
