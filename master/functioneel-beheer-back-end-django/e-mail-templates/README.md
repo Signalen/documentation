@@ -52,9 +52,9 @@ Er zijn verschillende e-mail types die verstuurd kunnen worden. Per e-mailtype s
 
 14\. Send mail signal reaction requested received: wordt verstuurd aan de melder wanneer zijn reactie op het formulier voor status "Reactie gevraagd" ontvangen is.
 
-15\. Send mail signal negative KTO contact: wordt verstuurd aan een melder wanneer een melding de status “Afgehandeld” krijgt nadat de vorige status “Verzoek tot heropenen” was, en de laatste feedback contact toestaat.
+15\. Send mail signal negative KTO contact: wordt verstuurd aan een melder wanneer een melding de status “Afgehandeld” krijgt nadat de vorige status “Verzoek tot heropenen” was, en de laatste feedback contact toestaat. Deze mail wordt alleen verstuurd als de FEATURE FLAG `REPORTER_MAIL_HANDLED_NEGATIVE_CONTACT_ENABLED` aanstaat, deze staat standaard uit.
 
-16\. Send mail signal feedback received: wordt verstuurd aan een melder nadat de melder feedback heeft ingestuurd, als contact met de melder is toegestaan.
+16\. Send mail signal feedback received: wordt verstuurd aan een melder nadat de melder feedback heeft ingestuurd, als contact met de melder is toegestaan. Deze mail wordt alleen verstuurd als de FEATURE FLAG `SYSTEM_MAIL_FEEDBACK_RECEIVED_ENABLED` aanstaat, deze staat standaard uit.
 
 &#x20;
 
